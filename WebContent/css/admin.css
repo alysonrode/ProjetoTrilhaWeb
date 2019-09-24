@@ -112,3 +112,6 @@ section h2, section h3{
 	color: #fff;
 	font-weight: bold;
 }
+#modalAviso{
+	display:none;	
+}
