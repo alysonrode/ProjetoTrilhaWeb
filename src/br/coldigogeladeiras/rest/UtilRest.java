@@ -1,4 +1,4 @@
-package br.coldigogeladeiras.rest;
+	package br.coldigogeladeiras.rest;
 
 import javax.ws.rs.core.Response;
 import javax.ws.rs.core.Response.ResponseBuilder;

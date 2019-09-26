@@ -8,7 +8,7 @@ $(document).ready(function(){
 	alert("Tentando buscar marcas");
 		$.ajax({
 			type: "GET",
-			url: "/ProjetoTrilhaWeb/rest/marca/buscar",
+			url: COLDIGO.PATH+"marca/buscar",
 			success: function (marca) {
 				//Aqui, ele verifica se a lista de marcas não está vazia, e limpa o campo selMarca, e adiciona um campo chamado Escolha, com um valor vazio.
 				//Após isso, ele começa a executar um for, que vai adicionando os elementos com seus respectivos valores.
@@ -71,17 +71,22 @@ $(document).ready(function(){
 
 		if((produto.categoria == "") ||(produto.marcaId=="")||(produto.modelo == "")||(produto.capacidade == "")||(produto.valor == "")){
 			COLDIGO.exibirAviso("Preencha todos os campos!");
-		} else{
+		}
+		else{
 			$.ajax({
-				type: "POST";
-				url: "/ProjetoTrilhaWeb/rest/produto/inserir",
-				data.JSON.stringify(produto),
+				type: "POST",
+				url: COLDIGO.PATH + "produto/inserir",
+				data: JSON.stringify(produto),	
 				success: function(msg) {
+					COLDIGO.exibirAviso(msg);
+					$("#addProduto").trigger("reset");
+				},
+				error: function (info){
 					COLDIGO.exibirAviso("Erro ao cadastrar um novo produto: " + info.status + " - " +info.statusText);
 				}
 			});
+	
 		}
-
 	}
 
 });
