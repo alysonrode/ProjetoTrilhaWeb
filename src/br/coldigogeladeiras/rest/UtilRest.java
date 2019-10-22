@@ -35,7 +35,7 @@ public class UtilRest {
 //		Retorna o objeto de resposta com status 500 (erro)
 //		juntamente com a String contendo a mensagem de erro
 		
-		return rb.build();
+		return rb.build(); 
 		
 		
 	}

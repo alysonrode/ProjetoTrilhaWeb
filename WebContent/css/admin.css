@@ -1,28 +1,30 @@
-@charset "UTF-8";
-
 body{
-	margin: 0 auto;
-	font-family: "Century Gothic", sans-serif;
+    margin: 0 auto;
+    font-family: "Century Gothic", sans-serif;
 }
+
 header{
     height: 120px;
     background-color: #008eb6;
-	position: -webkit-sticky;
-	position: sticky;
-	top: 0px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
 }
+
 header img{
     float: left;
     height: 100px;
     width: 100px;
     margin: 10px;
 }
+
 header h1{
     float: left;
-    margin: 30px 0 10px 30px;
-    font-size: 40px;
-    color: #ffffff;
+    margin: 30px 0 15px 30px;
+    font-size: 36px;
+    color: #fff;
 }
+
 nav{
     clear: both;
     width: 70%;
@@ -44,99 +46,118 @@ nav .opcao{
     font-size: 16px;
 }
 nav .opcao:hover{
-    background-color: #83afd3
+    background-color: #83afd3;
 }
+
 .dropdown{
-	position: relative;
-	display: inline-block;
+    position: relative;
+    display: inline-block;
 }
+
 .dropdown-content{
-	display: none;
-	position: absolute;
-	background-color: #005f89;
-	z-index: 1;
-	width: 100%;
+    display: none;
+    position: absolute;
+    background-color: #005f89;
+    z-index: 1;
+    width: 100%;
 }
+
 .dropdown-content a{
-	display: block;
+    display: block;
 }
+
 .dropdown-content a:hover{
-	background-color: #83afd3;	
+    background-color: #83afd3;
 }
+
 .dropdown:hover .dropdown-content{
-	display: block;	
+    display: block;
 }
+
 section{
-	clear: both;
-	min-height: 460px;
-	width: 100%;
-	margin-top:0px;
+    clear: both;
+    min-height: 460px;
+    width: 100%;
+    margin-top: 0px;
 }
+
 footer{
-	background-color:#005f89;
-	color: #fff;
-	text-align: center;
-	padding: 10px;
+    background-color: #005f89;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
 }
+
+/***** MODAIS *****/
+
+#modalAviso, .modalEditar{
+    display: none;
+}
+
+/* StYlE CRUDS */
+
 section h2, section h3{
-	text-align: center;
+    text-align: center;
 }
+
+/* Formulários */
+
 .frmInserir, .frmFiltrar{
-	margin: 0px auto;
-	margin-bottom: 10px;
+    margin: 0px auto;
+    margin-bottom: 10px;
 }
 .frmInserir{
-	width: 500px;
+    width: 500px;
 }
 .frmFiltrar{
-	width: 350px;
+    width: 370px;
 }
 .frmInserir label{
-	width: 200px;
+    width: 200px;
 }
 .frmInserir input, .frmInserir textarea, .frmInserir select{
-	width: 300px;
-	padding: 2px 0;
+    width: 300px;
+    padding: 2px 0;
 }
 .frmInserir textarea{
-	height: 100px;
-	resize:none;
+    height: 100px;
+    resize: none;
 }
 .frmInserir button, .frmFiltrar button{
-	width: 100px;
-	margin: 0 1%;
-	background-color: #b1ccf5;
-	font-weight: bold;
-	font-size: 16px;
-	float: right;
+    width: 100px;
+    margin: 0 1%;
+    background-color: #b1ccf5;
+    font-weight: bold;
+    font-size: 16px;
+    float: right;
 }
 .frmInserir .aviso{
-	background-color: #ff0000;
-	color: #fff;
-	font-weight: bold;
+    background-color: #ff0000;
+    color: #fff;
+    font-weight: bold;
 }
-#modalAviso{
-	display:none;	
-}
+
+/**** TABELA REGISTRO *****/
+
 .listaRegistros{
-	margin-bottom: 10px;
+    margin-bottom: 10px;
 }
 .listaRegistros table{
-	border: 1px solid #000;
-	border-collapse: collapse;
-	margin: 0 auto;
-	min-width: 50%;
+    border: 1px solid #000;
+    border-collapse: collapse;
+    margin: auto;
+    min-width: 50%;
 }
 .listaRegistros table th{
-	text-align: center;
-	font-size: 18px;
-	font-weight: bold;
-	color: #fff;
-	padding: 0 5px;
-	border: transparent;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    padding: 0 5px;
+    border: transparent;
 }
 .listaRegistros tr, .listaRegistros td, .listaRegistros th{
-	border: 1px solid #b0c4de;
+   	border: 1px solid #b0c4de;
 	padding: 0px 5px;
 }
 .listaRegistros tr, .listaRegistros td{
