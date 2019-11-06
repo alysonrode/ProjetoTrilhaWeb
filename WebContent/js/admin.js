@@ -8,6 +8,10 @@ $(document).ready(function(){
 	$("footer").load("/ProjetoTrilhaWeb/pages/admin/general/footer.html")
 	
 	COLDIGO.carregaPagina = function(pagename){
+		
+		if($(".ui-dialog"))
+			$(".ui-dialog").remove();
+		
 		$("section").empty();
 		$("section").load(pagename+"/", function(response, status, info){
 			if (status == "error") {
@@ -35,6 +39,12 @@ $(document).ready(function(){
 			$("#modalAviso").html(aviso);
 			$("#modalAviso").dialog(modal);
 		};
+		COLDIGO.formatarDinheiro = function(valor){
+			return valor.toFixed(2).replace('.',',').replace(/(\d)(?=(\d{3})+\,)/g, "$1.")
+		}
+		
+		
+		
 });
 
 

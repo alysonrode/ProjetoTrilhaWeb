@@ -90,7 +90,7 @@ footer{
 
 /***** MODAIS *****/
 
-#modalAviso, .modalEditar{
+#modalAviso, .modalEditar, #modalExcluirProduto, #modalExcluirMarca, #modalEditaMarca{
     display: none;
 }
 
@@ -123,7 +123,7 @@ section h2, section h3{
     height: 100px;
     resize: none;
 }
-.frmInserir button, .frmFiltrar button{
+.frmInserir button, .frmFiltrar button {
     width: 100px;
     margin: 0 1%;
     background-color: #b1ccf5;
@@ -139,16 +139,16 @@ section h2, section h3{
 
 /**** TABELA REGISTRO *****/
 
-.listaRegistros{
+.listaRegistros, #listaMarcas{
     margin-bottom: 10px;
 }
-.listaRegistros table{
+.listaRegistros table, #listaMarcas table {
     border: 1px solid #000;
     border-collapse: collapse;
     margin: auto;
     min-width: 50%;
 }
-.listaRegistros table th{
+.listaRegistros table th, #listaMarcas table th{
     text-align: center;
     font-size: 18px;
     font-weight: bold;
@@ -156,23 +156,23 @@ section h2, section h3{
     padding: 0 5px;
     border: transparent;
 }
-.listaRegistros tr, .listaRegistros td, .listaRegistros th{
+.listaRegistros tr, .listaRegistros td, .listaRegistros th, #listaMarcas tr, #listaMarcas td, #listaMarcas th{
    	border: 1px solid #b0c4de;
 	padding: 0px 5px;
 }
-.listaRegistros tr, .listaRegistros td{
+.listaRegistros tr, .listaRegistros td, #listaMarcas tr, #listaMarcas td{
 	font-size: 16px;
 }
-.listaRegistros tr:nth-child(even){
+.listaRegistros tr:nth-child(even), #listaMarcas tr:nth-child(even){
 	background-color: #b1ccf5 
 }
-.listaRegistros tr:nth-child(odd){
+.listaRegistros tr:nth-child(odd), #listaMarcas tr:nth-child(odd){
 	background-color: #83afd3;
 }
-.listaRegistros acoes{
+.listaRegistros acoes, #listaMarcas acoes{
 	width: 70px;
 }
-.listaRegistros table img{
+.listaRegistros table img, #listaMarcas table img{
 	padding: 0 5px;
 	width: 20px;
 	height: 20px;

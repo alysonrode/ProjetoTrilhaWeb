@@ -60,13 +60,13 @@ public class JDBCProdutoDAO implements ProdutoDAO {
 			
 			//CONTATENA NO COMANDO O WHERE BUSCANDO NO NOME DO PRODUTO
 			//O TEXTO DA VÁRIAVEL NOME
-			comando += "where modelo like '%'" + nome + "%";
+			comando += "where modelo like '%" + nome + "%'";
 				
 		}
 		//finaliza o comando ordenando alfebiticamente por 
 		//categoria, marca e depois modelo.
 		
-		comando += "ORDER BY categoria ASC, marcas.nome ASC, modelo ASC";
+		comando += " ORDER BY categoria ASC, marcas.nome ASC, modelo ASC";
 		
 		List<JsonObject> listaProdutos = new ArrayList<JsonObject>();
 		JsonObject produto = null;
@@ -76,25 +76,18 @@ public class JDBCProdutoDAO implements ProdutoDAO {
 			ResultSet rs = stmt.executeQuery(comando);
 			
 			while(rs.next()) {
-				int id = rs.getInt("id");
-				String categoria = rs.getString("categoria");
-				String modelo = rs.getString("modelo");
-				int capacidade = rs.getInt("capacidade");
-				float valor = rs.getFloat("valor");
-				String marcaNome = rs.getString("marca");
-				
-				if(categoria.equals("1")) {
-					categoria = "Geladeira";
-				}else if (categoria.equals("2")) {
-					categoria = "Freezar";
-				}
 				produto = new JsonObject();
-				produto.addProperty("id", id);
-				produto.addProperty("categoria", categoria);
-				produto.addProperty("modelo", modelo);
-				produto.addProperty("capacidade", capacidade);
-				produto.addProperty("valor", valor);
-				produto.addProperty("marcaNome", marcaNome);
+				produto.addProperty("id", rs.getInt("id"));
+				produto.addProperty("modelo", rs.getString("modelo"));
+				produto.addProperty("capacidade", rs.getInt("capacidade"));
+				produto.addProperty("valor", rs.getFloat("valor"));
+				produto.addProperty("marcaNome", rs.getString("marca"));
+				
+				if(rs.getString("categoria").equals("1")) {
+					produto.addProperty("categoria", "Geladeira");
+				}else if (rs.getString("categoria").equals("2")) {
+					produto.addProperty("categoria", "Freezar");
+				}
 			
 				listaProdutos.add(produto);
 			}
@@ -150,5 +143,22 @@ public class JDBCProdutoDAO implements ProdutoDAO {
 		}
 		return produto;
 	}
-	
+	public boolean alterar(Produto produto) {
+		String comando = "UPDATE produtos " + "SET categoria=?, modelo=?, capacidade=?, valor=?, marcas_id=?" + " WHERE id=?";
+		PreparedStatement p;
+		try {
+			p = this.conexao.prepareStatement(comando);
+			p.setString(1, produto.getCategoria());
+			p.setString(2, produto.getModelo());
+			p.setInt(3, produto.getCapacidade());
+			p.setFloat(4, produto.getValor());
+			p.setInt(5, produto.getMarcaId());
+			p.setInt(6, produto.getId());
+			p.executeUpdate();
+		}catch(SQLException e){
+			e.printStackTrace();
+			return false;
+		}
+	return true;
+	}
 }

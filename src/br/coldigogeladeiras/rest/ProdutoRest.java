@@ -15,6 +15,7 @@ import javax.ws.rs.Consumes;
 import javax.ws.rs.DELETE;
 import javax.ws.rs.GET;
 import javax.ws.rs.POST;
+import javax.ws.rs.PUT;
 import javax.ws.rs.Path;
 import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
@@ -84,8 +85,7 @@ public class ProdutoRest extends UtilRest {
 				listaProdutos = jdbcProduto.buscarPorNome(nome);
 				conec.fecharConexao();
 				
-				String json = new Gson().toJson(listaProdutos);
-				return this.buildResponse(json);
+				return this.buildResponse(listaProdutos);
 				
 			}catch (Exception e){
 				e.printStackTrace();
@@ -103,17 +103,13 @@ public class ProdutoRest extends UtilRest {
 				JDBCProdutoDAO jdbcProduto = new JDBCProdutoDAO(conexao);
 				
 				boolean retorno = jdbcProduto.deletar(id);
-				
-				String msg = "";
+				conec.fecharConexao();
 				if(retorno) {
-					msg = "Produto excluído com sucesso";
+					return this.buildResponse("Produto excluído com sucesso");
 				}else {
-					msg = "Erro ao excluir produto";
+					return this.buildErrorResponse("Erro ao excluir produto");
 				}
 				
-				conec.fecharConexao();
-				
-				return this.buildResponse(msg); 
 			}catch(Exception e) {
 				e.printStackTrace();
 				return this.buildErrorResponse(e.getMessage());
@@ -142,5 +138,31 @@ public class ProdutoRest extends UtilRest {
 			}
 			
 			
+		}
+		@PUT
+		@Path ("/alterar")
+		@Consumes("application/*")
+		public Response alterar(String produtoParam) {
+			try {
+				
+				Produto produto = new Gson().fromJson(produtoParam, Produto.class);
+				Conexao conec = new Conexao();
+				Connection conexao = conec.abrirConexao();
+				JDBCProdutoDAO jdbcProduto = new JDBCProdutoDAO(conexao);
+				
+				boolean retorno = jdbcProduto.alterar(produto);
+				conec.fecharConexao();
+				String msg = "";
+				if(retorno) {
+					msg = "Produto alterado com sucesso!";
+					return this.buildResponse(msg);
+				}else {
+					msg = "Erro ao alterar produto";
+					return this.buildErrorResponse(msg);
+				}
+			}catch(Exception e) {
+				e.printStackTrace();
+				return this.buildErrorResponse(e.getMessage());
+			}
 		}
 }
