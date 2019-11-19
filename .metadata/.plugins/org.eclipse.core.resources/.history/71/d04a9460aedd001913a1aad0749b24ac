@@ -1,0 +1,61 @@
+//cria um objeto codigo
+COLDIGO.produto = new Object();
+
+$(document).ready(function(){
+		//carrega as marcas registradas no banco de dados no select que está no formlário
+	
+	COLDIGO.produto.carregarMarcas = function(){
+	alert("Tentando buscar marcas");
+		$.ajax({
+			type: "GET",
+			url: "/ProjetoTrilhaWeb/rest/marca/buscar",
+			success: function (marca) {
+				if(marca!=""){
+					
+					$("selMarca").html("");
+					var option = document.createElement("option");
+					option.setAttribute ("value", "");
+					option.innerHTML=("Escolha");
+					$("#selMarca").append(option);
+					
+					console.log("cheguei")	
+					for (var i = 0; i < marca.length; i++){
+						console.log("cheguei")
+						var option = document.createElement("option");
+						option.setAttribute ("value", marca[i].id);
+						option.innerHTML = (marca[i].nome);
+						$("#selMarca").append(option);
+						Alert("Marcas obtidas com sucesso!")
+					}
+					
+				}else{
+					$("#selMarca").html("");
+					
+					var option = document.createElement("option");
+					option.setAttribute ("value", "");
+					option.innerHTML= ("Cadastre uma marca primeiro!");
+					$("#selMarca").append(option);
+					$("#selMarca").addClass("aviso");
+					
+				}
+			},
+			error: function (info){
+				
+				COLDIGO.exibirAviso("Erro ao buscar marcas " +info.status + "-" +info.statusText);
+				
+				$("#selMarca").html("");
+				var option = document.createElement("Option");
+				option.setAttribute("value", "");
+				option.innerHTML = ("Erro ao carregar marcas");
+			
+				$("#selMarca").append(option);
+				$("#selMarca").addClass("aviso");
+			}
+		})
+	}
+	COLDIGO.produto.carregarMarcas();
+});
+
+
+
+

@@ -1,0 +1,22 @@
+import java.util.Calendar;
+import java.util.GregorianCalendar;
+
+public class EntradaDados {
+//	Cria um objeto da classe GregorioCalendar do tipo Calendar.
+Calendar horario = new GregorianCalendar();	
+	public int recebeHora(){
+		
+//		Com o método "get" do Calendar, atibuo a hora atual em formato de 12hrs à uma váriavel.
+		int hora = horario.get(Calendar.HOUR);
+//		Retorna a hora atual.
+		return hora;
+	}
+	
+	public int recebeMinutos(){
+		
+		int minuto = horario.get(Calendar.MINUTE);
+		
+		return minuto;
+	}
+	
+}

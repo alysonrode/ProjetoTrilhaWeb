@@ -1,0 +1,24 @@
+import java.util.Calendar;
+import java.util.GregorianCalendar;
+
+public class EntradaDados {
+	
+	public static int recebeHora(){
+		
+		Calendar horario = new GregorianCalendar();
+		
+		int hora = horario.get(Calendar.HOUR);
+		
+		return hora;
+	}
+	
+	public static int recebeMinutos(){
+		
+		Calendar horario = new GregorianCalendar();
+		
+		int minuto = horario.get(Calendar.MINUTE);
+		
+		return minuto;
+	}
+	
+}

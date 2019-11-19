@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/home/alysonrode/Desenvolvimento/eclipse-workspace/ProjetoTrilhaWeb"/>
+		<item value="/home/alyson/Desenvolvimento/eclipse-workspace/exemploServlet"/>
+		<item value="/home/alyson/Desktop/backup/exemploServlet"/>
+		<item value="/home/alyson/Desktop/exemploServlet"/>
+		<item value="/home/alyson/Desenvolvimento/eclipse-workspace/projetofanclube"/>
+		<item value="/home/alyson/Desenvolvimento/eclipse-workspace/ProjetoTrilhaWeb"/>
+		<item value="/home/alyson/eclipse-workspace/AnguloRelogio"/>
+	</list>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jst.servlet.ui.project.facet.WebProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.wst.web.ui"/>
+		</list>
+	</section>
+	<section name="TaskPropertiesDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="325"/>
+		<item key="DIALOG_Y_ORIGIN" value="165"/>
+		<item key="DIALOG_WIDTH" value="717"/>
+		<item key="DIALOG_HEIGHT" value="272"/>
+		<item key="DIALOG_FONT_NAME" value="1|Noto Sans|9.0|0|GTK|1|"/>
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="26"/>
+		<item key="DIALOG_Y_ORIGIN" value="23"/>
+		<item key="DIALOG_WIDTH" value="490"/>
+		<item key="DIALOG_HEIGHT" value="433"/>
+		<item key="BUILD_NOW" value="true"/>
+		<item key="BUILD_ALL" value="true"/>
+		<item key="TOGGLE_SELECTED" value="false"/>
+	</section>
+</section>

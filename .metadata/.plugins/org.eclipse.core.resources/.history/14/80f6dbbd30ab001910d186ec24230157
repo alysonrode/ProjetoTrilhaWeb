@@ -1,0 +1,47 @@
+public class Angulos {
+	
+	public static int transformaMnutoEmAngulo(int minuto){
+		
+		int anguloPonteiroMinuto = 0;
+		
+		if (minuto <= 15) {
+			anguloPonteiroMinuto = minuto * 3;
+		}
+		else if(minuto > 15 && minuto <= 30) {
+			int newMinuto = minuto - 15;
+			anguloPonteiroMinuto = (newMinuto * 6) + 45;
+		}
+		else if(minuto > 30 && minuto <= 45) {
+			int newMinuto = minuto - 30;
+			anguloPonteiroMinuto = (newMinuto * 3) + 180;
+		}
+		else if(minuto > 45 && minuto <=59) {
+			int newMinuto = minuto - 45;
+			anguloPonteiroMinuto = (newMinuto * 6) + 225;
+		}
+		
+		return anguloPonteiroMinuto;
+	}
+	
+	public static int transformaHoraEmAngulo(int hora){
+		
+		int angulo = 30;
+		int anguloPonteiroHora = hora * angulo;
+		
+		return anguloPonteiroHora;
+	}
+	
+	public static int calculaAnguloEntrePonteiros(int anguloHora, int anguloMinuto){
+		
+		int anguloEntrePonteiros = anguloHora - anguloMinuto;
+		
+		if (anguloEntrePonteiros < 0) {
+			anguloEntrePonteiros = anguloEntrePonteiros * -1;
+			return anguloEntrePonteiros;
+		}else {
+			return anguloEntrePonteiros;
+		}
+		
+	}
+	
+}

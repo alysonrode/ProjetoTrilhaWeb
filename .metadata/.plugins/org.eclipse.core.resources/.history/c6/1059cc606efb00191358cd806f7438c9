@@ -1,0 +1,11 @@
+COLDGO.marca = new object
+
+$(document).ready(function(){
+
+	COLDIGO.marca.inserir() = function(){
+		
+		
+		
+	}
+	
+})

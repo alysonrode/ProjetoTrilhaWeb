@@ -1,0 +1,111 @@
+COLDIGO = new Object();
+
+$(document).ready(function(){
+	
+	COLDIGO.PATH = "/ProjetoTrilhaWeb/rest/";
+	
+	$("header").load("/ProjetoTrilhaWeb/pages/admin/general/header.html")
+	$("footer").load("/ProjetoTrilhaWeb/pages/admin/general/footer.html")
+	
+	COLDIGO.carregaPagina = function(pagename){
+		
+		if($(".ui-dialog"))
+			$(".ui-dialog").remove();
+		
+		$("section").empty();
+		$("section").load(pagename+"/", function(response, status, info){
+			if (status == "error") {
+				
+				var msg = "Houve um erro ao encontrar a página: " +info.status + "-" +info.statusText;
+				$("section").html(msg);
+			
+			}
+		});
+		};
+		
+		COLDIGO.exibirAviso = function(aviso){
+			
+			var modal={
+					title: "Mensagem",
+					height: 250,
+					width: 400,
+					modal: true,
+					buttons: {
+						"OK": function(){
+							$(this).dialog("close");
+						}
+					}
+			};
+			$("#modalAviso").html(aviso);
+			$("#modalAviso").dialog(modal);
+		};
+		COLDIGO.formatarDinheiro = function(valor){
+			return valor.toFixed(2).replace('.',',').replace(/(\d)(?=(\d{3})+\,)/g, "$1.")
+		}
+		
+		
+		COLDIGO.produto.carregarMarcas = function(id, filtro){
+			if(id!=undefined){
+				select = "#selMarcaEdicao"
+			}else{
+				select = "#selMarca"
+			}
+			$.ajax({
+				type: "GET",
+				url: COLDIGO.PATH+"marca/buscar",
+				success: function (marca) {
+					//Aqui, ele verifica se a lista de marcas não está vazia, e limpa o campo selMarca, e adiciona um campo chamado Escolha, com um valor vazio.
+					//Após isso, ele começa a executar um for, que vai adicionando os elementos com seus respectivos valores.
+					
+					if(marca!=""){
+					
+						$(select).html("");
+						var option = document.createElement("option");
+						option.setAttribute ("value", "");
+						option.innerHTML=("Escolha");
+						$(select).append(option);
+						
+						for (var i = 0; i < marca.length; i++){
+							var option = document.createElement("option");
+							option.setAttribute ("value", marca[i].id);
+							
+							if ((id!=undefined) && (id==marca[i].id))
+								option.setAttribute ("selected", "selected")
+							
+							option.innerHTML = (marca[i].nome);
+							$(select).append(option);
+						}
+						//Caso a lista esteja vazia, ele irá criar um elemento com a seguinte mensagem mostrada na linha 39
+					}else{
+						$(select).html("");
+						
+						var option = document.createElement("option");
+						option.setAttribute ("value", "");
+						option.innerHTML= ("Cadastre uma marca primeiro!");
+						$(select).append(option);
+						$(select).addClass("aviso");
+						
+					}
+				},
+			
+				
+				//Caso aconteça qualquer erro, essa função irá mostrar ao usuário que ocorreu um erro ao carregar as marcas.
+				error: function (info){
+					
+					COLDIGO.exibirAviso("Erro ao buscar marcas " +info.status + "-" +info.statusText);
+					
+					$(select).html("");
+					var option = document.createElement("Option");
+					option.setAttribute("value", "");
+					option.innerHTML = ("Erro ao carregar marcas");
+				
+					$(select).append(option);
+					$(select).addClass("aviso");
+				}
+			})
+		}
+
+});
+
+
+

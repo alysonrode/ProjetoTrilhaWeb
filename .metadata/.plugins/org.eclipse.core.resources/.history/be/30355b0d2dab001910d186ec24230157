@@ -1,0 +1,31 @@
+public class Relogio {
+
+	public void main(String[] args) {
+		
+//			Recebe o horário da sub classe GregorioCalendar, de acordo com o horário atual.
+			int hora = EntradaDados.recebeHora();
+			
+			int minuto = EntradaDados.recebeMinutos();
+			
+			System.out.println(hora);
+			
+//			Calcula os angulos dos ponteiros em relação ao relógio, levando como consideração 00:00 como 0º.
+			int anguloHora = Angulos.transformaHoraEmAngulo(hora);
+			
+			int anguloMinuto = Angulos.transformaMnutoEmAngulo(minuto);
+			
+//			Calcula o ângulo entre os ponteiros.
+			int anguloEntrePonteiros = Angulos.calculaAnguloEntrePonteiros(anguloHora, anguloMinuto);
+			
+			
+			System.out.println(anguloHora);
+			System.out.println(anguloMinuto);
+			System.out.println(anguloEntrePonteiros);
+			
+//			Faz a mostragem de todos os dados para o usuário.
+			
+			Graphics.mostraAnguloHoraAtual(anguloEntrePonteiros);	
+		
+	}
+
+}

@@ -1,0 +1,8 @@
+import javax.swing.JOptionPane;
+public class Graphics {
+
+	public static void mostraAnguloHoraAtual(int anguloEntrePonteiros) {
+		JOptionPane.showMessageDialog(null, "O ângulo entre os ponteiros da hora atual é de: " +anguloEntrePonteiros);
+	}
+	
+}

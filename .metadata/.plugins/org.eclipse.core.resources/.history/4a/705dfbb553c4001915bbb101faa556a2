@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta lang="pt-br">
+<meta charset="UTF-8">
+<link rel="stylesheet" href="site.css"></link>
+<title>Contato</title>
+</head>
+<body>
+
+<form name="frmcontato" onsubmit="return validaFormulario()" action="insereContato">
+    <fieldset>
+	<legend>Contato</legend>
+
+    <label for="nome"> Nome: </label>
+    <input type="text" name="txtnome" id="nome">
+
+    <label for="endereco"> Endereço: </label>
+    <input type="text" name="txtendereco" id="endereco">
+
+    <label for="fone"> Telefone:</label>
+    <input type="text" name="txtfone" id="fone">
+
+    <button type="submit" name="enviar"> Enviar </button>
+    <button type="reset" name="limpar"> Limpar </button>
+
+    </fieldset>
+</form>
+
+<script type="text/javascript">
+
+    function validaFormulario(){
+
+        if(!document.frmcontato.txtnome.value == true){
+            alert("Preencha o campo Nome.");
+            document.frmcontato.txtnome.focus();
+            return false;
+        }
+
+        if(!document.frmcontato.txtendereco.value == true){
+            alert("Preencha o campo Endereço.")
+            document.frmcontato.txtendereco.focus()
+            return false
+        }
+
+        if(!document.frmcontato.txtfone.value == true){
+            alert("Preencha o campo Telefone.")
+            document.frmcontato.txtfone.focus()
+            return false
+        }
+ 
+    return true
+
+    }
+    
+</script>
+
+</body>
+</html>

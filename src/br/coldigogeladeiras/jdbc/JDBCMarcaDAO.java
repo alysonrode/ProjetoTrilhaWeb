@@ -10,6 +10,7 @@ import java.util.List;
 
 import java.util.ArrayList;
 
+import br.coldigogeladeiras.bd.Conexao;
 import br.coldigogeladeiras.jdbcinterface.MarcaDAO;
 
 public class JDBCMarcaDAO implements MarcaDAO {
@@ -123,6 +124,7 @@ public class JDBCMarcaDAO implements MarcaDAO {
 
 	public boolean excluir(int id) {
 		String comando = "DELETE from marcas where id = ?";
+
 		PreparedStatement p;
 		try {
 			p = this.conexao.prepareStatement(comando);
@@ -134,6 +136,7 @@ public class JDBCMarcaDAO implements MarcaDAO {
 		}
 		return true;
 	}
+
 	public Marca buscarPorId(int id) {
 		String comando = "select * from marcas WHERE ID = ?";
 		PreparedStatement p;
@@ -143,18 +146,18 @@ public class JDBCMarcaDAO implements MarcaDAO {
 			p = this.conexao.prepareStatement(comando);
 			p.setInt(1, id);
 			ResultSet rs = p.executeQuery();
-			
-			if(rs.next()){
+
+			if (rs.next()) {
 				marca.setId(id);
 				marca.setNome(rs.getString("nome"));
 			}
-			
-			
-		}catch(Exception e) {
+
+		} catch (Exception e) {
 			e.printStackTrace();
 		}
-	return marca;
+		return marca;
 	}
+
 	public boolean editarMarca(Marca marca) {
 		String comando = "update marcas set nome = ? where id = ?";
 		PreparedStatement p;
@@ -163,12 +166,67 @@ public class JDBCMarcaDAO implements MarcaDAO {
 			p.setString(1, marca.getNome());
 			p.setInt(2, marca.getId());
 			p.executeUpdate();
+		} catch (Exception e) {
+			e.printStackTrace();
+			return false;
+		}
+		return true;
+	}
+
+	public boolean verificaIntegridadeMarca(Connection conexao, int id) {
+		
+		String comando = "SELECT COUNT(*) as count_produtos FROM produtos WHERE marcas_id = ?";
+		PreparedStatement r;
+		int contagem = 0;
+		try {
+			r = conexao.prepareStatement(comando);
+			r.setInt(1, id);
+		
+			ResultSet rs = r.executeQuery();
+			
+			while(rs.next()){
+				contagem = rs.getInt("count_produtos");
+				
+				if(contagem > 0) {
+					
+					return true;
+				
+				}
+			}
+			return false;
+		}
+		catch(Exception e){
+			e.printStackTrace();
+			return false;
+		}
+	}
+	public boolean verificaIntegridadeProduto(Connection conexao, int id) {
+		
+		String comando = "SELECT COUNT(*) as count_produtos FROM marcas WHERE id = ?";
+		PreparedStatement p;
+		
+		int contagem = 0;
+		
+		try {
+		
+			p = this.conexao.prepareStatement(comando);
+			p.setInt(1, id);
+			
+			ResultSet rs = p.executeQuery();
+			 
+			while(rs.next()) {	
+				contagem = rs.getInt("count_produtos");
+				System.out.println(contagem);
+			}	
+				if(contagem > 0) {
+					return true;	
+				}else {
+					return false;
+				}
+			
 		}catch(Exception e) {
 			e.printStackTrace();
 			return false;
 		}
-	return true;
 	}
 }
-
-	

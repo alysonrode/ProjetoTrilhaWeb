@@ -1,0 +1,24 @@
+<h2>Registro de marcas</h2>
+<form name="frmInserirMarcas" id="inserirMarcas" class="frmInserir">
+    <fieldset>
+        <legend>Digite a marca que deseja inserir</legend>
+
+        <table>
+
+			<tr>
+            <th> Marca </th>
+            <td>
+                <input type="text" name="marca">
+            </td>
+            </tr>
+            <tr>
+            <td>
+            	<button type="button" class=""> Cadastrar </button>
+            </td>
+            </tr>
+            
+
+        </table>
+
+    </fieldset>
+</form>

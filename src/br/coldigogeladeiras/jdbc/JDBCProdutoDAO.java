@@ -1,17 +1,12 @@
 package br.coldigogeladeiras.jdbc;
 
-import java.sql.Connection;
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.sql.Statement;
-import java.util.ArrayList;
-import java.util.List;
-
-import com.google.gson.JsonObject;
-
 import br.coldigogeladeiras.jdbcinterface.ProdutoDAO;
 import br.coldigogeladeiras.modelo.Produto;
+import com.google.gson.JsonObject;
+
+import java.sql.*;
+import java.util.ArrayList;
+import java.util.List;
 
 
 public class JDBCProdutoDAO implements ProdutoDAO {
@@ -30,26 +25,28 @@ public class JDBCProdutoDAO implements ProdutoDAO {
 		String comando = "INSERT INTO produtos (id, categoria, modelo, capacidade, valor, marcas_id) " 
 		+ "VALUES (?,?,?,?,?,?)";
 		
-		PreparedStatement p;
+			PreparedStatement p;
 		
-		try {
-			p = this.conexao.prepareStatement(comando);
+			try {
+				p = this.conexao.prepareStatement(comando);
 			
-			p.setInt(1, produto.getId());
-			p.setString(2, produto.getCategoria());
-			p.setString(3, produto.getModelo());
-			p.setInt(4, produto.getCapacidade());
-			p.setFloat(5, produto.getValor());
-			p.setInt(6, produto.getMarcaId());
+				p.setInt(1, produto.getId());
+				p.setString(2, produto.getCategoria());
+				p.setString(3, produto.getModelo());
+				p.setInt(4, produto.getCapacidade());
+				p.setFloat(5, produto.getValor());
+				p.setInt(6, produto.getMarcaId());
 			
-			p.execute();
+				p.execute();
+			}
 			//Caso aconteça algo de errado, será retornado um false, caso não, será retornado um true =)
-		}catch (SQLException e){
+		catch (SQLException e){
 			e.printStackTrace();
 			return false;
 		}
+		
 		return true;
-	}
+		}
 	
 	public List<JsonObject> buscarPorNome(String nome){
 		

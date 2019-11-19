@@ -1,0 +1,31 @@
+public class Relogio {
+
+	public static void main(String[] args) {
+		
+//			Solicita horário
+			int hora = EntradaDados.recebeHora();
+			
+			int minuto = EntradaDados.recebeMinutos();
+			
+			System.out.println(hora);
+			
+//			Transforma dados em angulos
+			int anguloHora = Angulos.transformaHoraEmAngulo(hora);
+			
+			int anguloMinuto = Angulos.transformaMnutoEmAngulo(minuto);
+			
+//			Calcula angulo entre ponteiro
+			int anguloEntrePonteiros = Angulos.calculaAnguloEntrePonteiros(anguloHora, anguloMinuto);
+			
+			
+			System.out.println(anguloHora);
+			System.out.println(anguloMinuto);
+			System.out.println(anguloEntrePonteiros);
+			
+//			Mostra angulo da hora
+			
+			Graphics.mostraAnguloHoraAtual(anguloEntrePonteiros);	
+		
+	}
+
+}

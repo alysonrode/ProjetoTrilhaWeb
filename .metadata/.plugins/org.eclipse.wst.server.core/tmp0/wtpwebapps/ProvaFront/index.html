@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel = "stylesheet" type = "text/css"  href = "css/style.css">
+<meta charset="UTF-8">
+<title>Palmeirinha Doces e Salgados</title>
+<script src="JavaScript/javascript.js"></script>
+</head>
+<body>
+	<header>
+		<h1>Palmeirinha Festas</h1>
+	</header>
+	<section>
+		<hr>
+	<nav>
+	<a href=# class="botaoSuperior">Quitudes</a>
+	<a href=# class="botaoSuperior">Pedidos</a>
+	</nav>
+		<div class=quemSomos>
+			<h2>Quem somos</h2>
+			<p>Dona Palmeirinha trabalhou há mais de 50 anos no ramo, sempre
+				fazendo a alegria da festa. Seus doces e salgados são reconhecidos
+				pelo sabor, beleza e qualidade. Veja alguns de nossos produtos.</p>
+		</div>
+		<h2>Quitudes</h2>
+			<table class="tabelaDoces" border="1px solid">
+				<thead>
+					<tr>
+						<th>Categoria</th>
+						<th>Nome</th>
+						<th>Valor unit</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Doce</td>
+						<td>Cuzcuz</td>
+						<td>R$0,50</td>
+					</tr>
+					<tr>
+						<td>Doce</td>
+						<td>Paçoca</td>
+						<td>R$1,00</td>
+					</tr>
+					<tr>
+						<td>Doce</td>
+						<td>Bolo</td>
+						<td>R$1,50</td>
+					</tr>
+					<tr>
+						<td>Salgado</td>
+						<td>Torta de frango</td>
+						<td>R$1,50</td>
+					</tr>
+					<tr>
+						<td>Salgado</td>
+						<td>Torta</td>
+						<td>R$2,00</td>
+					</tr>
+					<tr>
+						<td>Salgado</td>
+						<td>Frango</td>
+						<td>R$3,50</td>
+					</tr>
+				</tbody>
+			</table>
+		<h2>Pedidos</h2>
+		<form name="pedidos" method="POST" action=# onsubmit="return validaPedido()">
+			<fieldset class="formulario">
+				<legend>Efetue seu pedido aqui</legend>
+					<label for="nome"> Nome: </label> 
+					<input type="text" name="txtnome"> 
+					<hr>
+					<label for="data"> Entrega: </label> 
+					<input type="date" name="dateEntrega"> 
+					<hr>
+					<label for="select"> Quitudes: </label> 
+					<select name="selectDoces">
+						<option value="">Escolha</option>
+						<option value="Doc">Doce</option>
+						<option value="Salg">Salgado</option>
+						<option value="Out">Outros</option>
+					</select>
+					<hr>
+					<label for="quantidade">Quantidade:</label>
+					<input type="text" name="quantidade">
+					<hr>
+					<textarea id="pedido" name="pedido" placeholder="Descreva seu pedido ou se não a palmerinha vai atraz de vc"></textarea>
+					<hr>
+					<label for="endereco"> Endereço:</label>
+					<input type="text" name="txtEndereco">
+					<hr>
+					<input type="checkbox" id="checkbox" name="retirar" value="Checked">
+					<label for="checkbox"> Desejo retirar em balcão</label>
+					<hr>
+					<label for="telefone">Telefone:</label>
+					<input type="text" name="txtTelefone">
+					<hr>
+					<button type="reset" class="esquerdo">LIMPAR</button><button type="submit" class="direito">ENVIAR</button>
+			</fieldset>
+		</form>
+	</section>
+<footer>Desenvolvido por: Alyson Rode</footer>
+</body>
+</html>

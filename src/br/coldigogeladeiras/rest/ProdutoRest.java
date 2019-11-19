@@ -4,6 +4,7 @@ import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 
 import br.coldigogeladeiras.bd.Conexao;
+import br.coldigogeladeiras.jdbc.JDBCMarcaDAO;
 import br.coldigogeladeiras.jdbc.JDBCProdutoDAO;
 import br.coldigogeladeiras.modelo.Produto;
 
@@ -42,28 +43,38 @@ public class ProdutoRest extends UtilRest {
 			Conexao conec = new Conexao();
 			Connection conexao = conec.abrirConexao();
 			
-			//Aqui cria um objeto da classe JDBCProdutoDAO.
-			JDBCProdutoDAO jdbcProduto = new JDBCProdutoDAO(conexao);
+			JDBCMarcaDAO jdbcMarca = new JDBCMarcaDAO(conexao);
+			boolean integridade = jdbcMarca.verificaIntegridadeProduto(conexao, produto.getMarcaId());
 			
-			//recebe o return da jdbc e coloca numa variável booleana.
-			boolean retorno = jdbcProduto.inserir(produto);
+			if (integridade) {
 			
-			//cria uma string vazia
-			String msg = "";
-			
-			//Se o retorno for = a true;
-			if(retorno) {
-				msg = "Produto cadastrado com sucesso";
+				//Aqui cria um objeto da classe JDBCProdutoDAO.
+				JDBCProdutoDAO jdbcProduto = new JDBCProdutoDAO(conexao);
+				
+				//recebe o return da jdbc e coloca numa variável booleana.
+				boolean retorno = jdbcProduto.inserir(produto);
+				
+				//cria uma string vazia
+				String msg = "";
+				
+				//Se o retorno for = a true;
+				conec.fecharConexao();
+				if(retorno) {
+					msg = "Produto cadastrado com sucesso";
+					return this.buildResponse(msg);
+				}else {
+					msg = "Erro ao cadastrar produto";
+					return this.buildResponse(msg);
+				}
 			}else {
-				msg = "Erro ao cadastrar produto";
+				conec.fecharConexao();
+				return this.buildErrorResponse("A marca que você tentou colocar não existe queridão");
 			}
-			
 			//fecha a conexão com o banco
 			
-			conec.fecharConexao();
+		
 			
 			//envia a mensagem para o HTML.
-			return this.buildResponse(msg);
 		}catch(Exception e){
 			e.printStackTrace();
 			return this.buildErrorResponse(e.getMessage());

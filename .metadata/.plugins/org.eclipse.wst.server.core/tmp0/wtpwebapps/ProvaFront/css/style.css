@@ -1,0 +1,94 @@
+@charset "UTF-8";
+header{
+	background-color: #00151D;
+	color: #C4FFFF;
+	height: 100%;
+}
+body{
+	font-family: tahoma;
+	background-color: #3C8080;
+}
+section{
+	min-height: 1000px;
+	min-width: 100%;
+}
+input{
+	width: 550px;
+	border-radius: 25px;
+}
+#checkbox{
+	width: 10px;
+}
+nav{
+	text-align: center;
+	font-size: 25px;
+	padding: 20px;
+
+}
+.botaoSuperior{
+	width: 50px;
+	background-color: #00151D;
+	color: white;
+	padding: 0 50px;
+	border-radius: 20px;
+}
+.quemSomos{
+	margin: 0 300px;
+}
+.tabelaDoces{
+	font-size: 30px;
+	padding: 0 120px;
+	text-align: center;
+	border: 1px solid black;
+	border-collapse: collapse;
+	margin: 0 auto;
+}
+fieldset{
+	margin: 0 auto;
+	background-color: #03807F;
+	border-radius: 50px;
+}
+h1, h2{
+	text-align: center;
+}
+h2{
+	font-size: 40px;
+}
+.formulario{
+	font-size: 20px;
+	margin: 0 300px;
+	padding: 20px 90px;
+	margin-bottom: 20px;
+
+}
+textarea{
+	width: 500px;
+	height: 100px;
+	border-radius: 10px;
+}
+footer{
+	height: 20px;
+	background-color: #00151D;
+	color: #03807F;
+	text-align: center;
+	padding: 10px;
+}
+p{
+	font-size: 25px;
+	text-align: justify;
+}
+button{
+	width: 130px;
+	background-color: #00151D;
+	border-color: transparent;
+	font-size: 17px;
+	margin: 0 10px;
+	border-radius: 10px;
+}
+.esquerdo{
+	color: red;
+	margin-left: 130px;
+}
+.direito{
+	color: lightgreen;
+}

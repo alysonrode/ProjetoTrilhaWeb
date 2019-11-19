@@ -5,6 +5,8 @@ import com.google.gson.Gson;
 import java.util.List;
 import java.util.ArrayList;
 import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
 
 import br.coldigogeladeiras.modelo.Marca;
 import br.coldigogeladeiras.bd.Conexao;
@@ -97,42 +99,52 @@ public class MarcaRest extends UtilRest {
 	public Response deletar(@PathParam("id") int id) {
 		try {
 			Conexao conec = new Conexao();
-			Connection conexao = conec.abrirConexao();
-			JDBCMarcaDAO jdbcMarca = new JDBCMarcaDAO(conexao);
-			boolean resposta = jdbcMarca.excluir(id);
-			conec.fecharConexao();
-			if (resposta) {
-				return this.buildResponse("Marca excluída com sucesso!");
-			} else {
-				return this.buildErrorResponse("Falha ao excluir marca!");
+			Connection conexao = conec.abrirConexao();			
+
+				JDBCMarcaDAO jdbcMarca = new JDBCMarcaDAO(conexao);
+				boolean integridade = jdbcMarca.verificaIntegridadeMarca(conexao, id);
+				if(integridade == false) {
+					boolean resposta = jdbcMarca.excluir(id);
+				
+					conec.fecharConexao();
+				
+					if 	(resposta) {
+						return this.buildResponse("Marca excluída com sucesso!");
+					} else {
+						return this.buildErrorResponse("Falha ao excluir marca!");
+					}
+					}else {
+						return this.buildErrorResponse("Há um produto registrado com essa marca.");
+					}
+			} catch (Exception e) {
+				e.printStackTrace();
+				return this.buildErrorResponse(e.getMessage());
 			}
 
-		} catch (Exception e) {
-			e.printStackTrace();
-			return this.buildErrorResponse(e.getMessage());
-		}
-
 	}
+
 	@GET
 	@Path("/buscarPorId/{id}")
 	@Consumes("application/*")
-	public Response buscarPorId(@PathParam("id") int id){
+	@Produces(MediaType.APPLICATION_JSON)
+	public Response buscarPorId(@PathParam("id") int id) {
 		try {
 			Conexao conec = new Conexao();
 			Connection conexao = conec.abrirConexao();
 			JDBCMarcaDAO jdbcMarca = new JDBCMarcaDAO(conexao);
 			Marca marca = new Marca();
-			
+
 			marca = jdbcMarca.buscarPorId(id);
 			conec.fecharConexao();
 			return this.buildResponse(marca);
-		}catch (Exception e){
-			
+		} catch (Exception e) {
+
 			e.printStackTrace();
 			return this.buildErrorResponse(e.getMessage());
-			
+
 		}
 	}
+
 	@PUT
 	@Path("/editar")
 	@Consumes("application/*")
@@ -141,18 +153,41 @@ public class MarcaRest extends UtilRest {
 		Conexao conec = new Conexao();
 		Connection conexao = conec.abrirConexao();
 		try {
-		JDBCMarcaDAO jdbcMarca = new JDBCMarcaDAO(conexao);
-		
-		boolean retorno = jdbcMarca.editarMarca(marca);
-		conec.fecharConexao();
-		if (retorno) {
-			return this.buildResponse("Produto alterado com sucesso!");
-		}else {
-			return this.buildErrorResponse("Erro alterar a marcaAAAAAAAAAAAAH");
-		}
-		}catch(Exception e) {
+			JDBCMarcaDAO jdbcMarca = new JDBCMarcaDAO(conexao);
+
+			boolean retorno = jdbcMarca.editarMarca(marca);
+			conec.fecharConexao();
+			if (retorno) {
+				return this.buildResponse("Marca alterado com sucesso!");
+			} else {
+				return this.buildErrorResponse("Erro alterar a marcaAAAAAAAAAAAAH");
+			}
+		} catch (Exception e) {
 			e.printStackTrace();
 			return this.buildErrorResponse(e.getMessage());
+		}
+	}
+	@PUT
+	@Path("/onoff/{id}")
+	@Consumes("application/*")
+	public Response onoff(@PathParam("id") int id, @QueryParam("status") int status) {
+		
+		Conexao conec = new Conexao();
+		Connection conexao = conec.abrirConexao();
+		JDBCMarcaDAO jdbcMarca = new JDBCMarcaDAO(conexao);
+		
+		String textStatus = "";
+		if(status == 0) {
+			textStatus = "desativada";
+		}else {
+			textStatus = "ativada";
+		}
+		
+		boolean retorno = jdbcMarca.onoff(id, status);
+		
+		
+		if(retorno) {
+			return this.buildResponse("Marca" + textStatus + " com sucesso!");
 		}
 	}
 }

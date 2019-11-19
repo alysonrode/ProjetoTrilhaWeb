@@ -5,21 +5,22 @@ $(document).ready(function(){
 	COLDIGO.marca.inserir = function(){
 		
 		var marca = document.frmInserirMarcas.marca.value
-		console.log(marca)
-		
+		if(marca != undefined && marca != ""){
 		$.ajax({
 			type: "POST",
 			url: COLDIGO.PATH + "marca/inserir",
 			data: JSON.stringify(marca),
 			success: function(msg){
 				COLDIGO.exibirAviso(msg)
-				//$("#").trigger("reset")
+				COLDIGO.marca.buscar()
 			},
 			error: function(info){
-				COLDIGO.exibirAviso("Erro ao cadastrar marca: " + info.status + " - " +info.statusText);
+				COLDIGO.exibirAviso("Erro ao cadastrar marca: " + info.statusText);
 			}
 		})
-		
+		}else{
+			alert("Preencha todos os campos")
+		}
 	}
 	COLDIGO.marca.buscar = function(){
 		var valorBusca = $("#campoBuscaMarca").val();
@@ -31,7 +32,7 @@ $(document).ready(function(){
 			$("#listaMarcas").html(COLDIGO.marca.exibir(listaMarcas))
 		},
 		error: function(){
-			
+			COLDIGO.exibirAviso("Erro ao buscar marcas: " + info.status + " - " +info.statusText);
 		}
 		})
 	}
@@ -40,7 +41,7 @@ $(document).ready(function(){
 		
 		var tabela = "<table>" +
 		"<tr>" +
-		"<th> ID </th>" +
+		"<th> Status </th>" +
 		"<th> Marca </th>" +
 		"<th class='acoes'> Ações </th>" +
 		"</tr>"
@@ -49,7 +50,9 @@ $(document).ready(function(){
 			
 			for(var i=0; i < listaMarcas.length; i++){
 				tabela += "<tr>" +
-						"<td>"+listaMarcas[i].id+"</td>"+
+						"<td>" +
+						"<input type='checkbox' class='switch slider round' onclick='COLDIGO.marca.onoff("+listaMarcas[i].id+")' id='"+listaMarcas[i].id+"'>" +
+						"</td>"+
 						"<td>"+listaMarcas[i].nome+"</td>"+
 						"<td>" +
 							"<a onclick=\"COLDIGO.marca.exibirEdicao('"+listaMarcas[i].id+"')\"><img src='../../imgs/edit.png' alt='Editar registro'></a>" +
@@ -84,7 +87,8 @@ $(document).ready(function(){
 									$("#modalExcluirMarca").dialog("close");
 								},
 								error: function(info){
-									
+									COLDIGO.exibirAviso("Erro ao excluir marca: " + info.statusText);
+									$("#modalExcluirMarca").dialog("close");
 								}
 							})		
 					},
@@ -144,8 +148,34 @@ $(document).ready(function(){
 			},
 			error: function(msg){
 				
+				COLDIGO.exibirAviso("Erro ao cadastrar marca: " + info.status + " - " +info.statusText);
+			
 			}
 		})
+	}
+	
+	COLDIGO.marca.onoff = function(id){
+		var status
+		if (document.getElementById(id).checked == true){
+			status = 1;
+		}else{
+			status = 0;
+		}
+		$.ajax({
+			type: "PUT",
+			url: COLDIGO.PATH + "marca/onoff/" +id,
+			data: status,
+			success: function(msg){
+				COLDIGO.exibirAviso(msg)
+				COLDIGO.marca.buscar()
+			},
+			error: function(info){
+				COLDIGO.exibirAviso("erro")
+			}
+			
+			
+		})
+		
 	}
 	
 	COLDIGO.marca.buscar()

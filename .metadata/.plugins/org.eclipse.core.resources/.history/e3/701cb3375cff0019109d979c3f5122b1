@@ -1,0 +1,31 @@
+<script src="../../js/brands.js"></script>
+
+<h2>Registro de marcas</h2>
+<form name="frmInserirMarcas" id="inserirMarcas" class="frmInserir">
+	<fieldset>
+		<legend>Digite a marca que deseja inserir</legend>
+		<table>
+			<tr>
+				<th>Marca</th>
+				<td><input type="text" name="marca"></td>
+			</tr>
+			<tr>
+				<td colspan='2'>
+					<button type="button" onclick="COLDIGO.marca.inserir()">
+						Cadastrar</button>
+				</td>
+			</tr>
+
+		</table>
+	</fieldset>
+	<div id="listaMarcas" class="listaDeMarcas"></div>
+	<div>
+			<fieldset>
+				<legend> Buscar por nome da marca </legend>
+
+				<label for="nome">Marca</label> <input type="text"
+					id="campoBuscaMarca">
+
+			</fieldset>
+	</div>
+</form>

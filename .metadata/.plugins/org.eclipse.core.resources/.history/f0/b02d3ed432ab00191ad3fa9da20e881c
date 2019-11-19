@@ -1,0 +1,29 @@
+public class Relogio {
+//			Deixa a entrada de dados como um atributo da classe.
+EntradaDados dados = new EntradaDados();
+
+	public void main(String[] args) {
+		
+//			Recebe o horário da sub classe GregorioCalendar, de acordo com o horário atual.
+		
+			int hora = dados.recebeHora();
+			
+			int minuto = dados.recebeMinutos();
+			
+//			Chama os metodos para conversão de hora em angulação.
+			
+			int anguloHora = Angulos.transformaHoraEmAngulo(hora);
+			
+			int anguloMinuto = Angulos.transformaMnutoEmAngulo(minuto);
+
+//			Calcula o ângulo entre os ponteiros.
+			
+			int anguloEntrePonteiros = Angulos.calculaAnguloEntrePonteiros(anguloHora, anguloMinuto);
+			
+//			Faz a mostragem de todos os dados para o usuário.
+			
+			Graphics.mostraAnguloHoraAtual(anguloEntrePonteiros, hora, minuto);	
+		
+	}
+
+}

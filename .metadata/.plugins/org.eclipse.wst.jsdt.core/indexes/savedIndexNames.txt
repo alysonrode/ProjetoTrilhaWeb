@@ -1,0 +1,10 @@
+INDEX VERSION 1.4+/home/alysonrode/Desenvolvimento/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1619425664.index
+796981809.index
+3252794139.index
+2774636272.index
+4230709278.index
+252796134.index
+400429731.index
+1386038605.index
+2311246015.index

@@ -1,0 +1,1099 @@
+
+ago 13, 2019 19:30:46.02 NEW SESSION
+ago 13, 2019 19:30:46.02 
+ago 13, 2019 19:30:46.02 (google-chrome:9335): Gtk-WARNING **: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+ago 13, 2019 19:30:46.06 Fontconfig warning: "/etc/fonts/fonts.conf", line 100: unknown element "blank"
+ago 13, 2019 19:30:46.32 [9380:9380:0813/193046.326994:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+ago 13, 2019 19:30:46.39 [9335:9360:0813/193046.394536:ERROR:browser_process_sub_thread.cc(209)] Waited 1 ms for network service
+ago 13, 2019 19:30:46.40 Abrindo em uma sessão de navegador existente.
+ago 13, 2019 19:42:54.69 
+ago 13, 2019 19:42:54.69 (google-chrome:10216): Gtk-WARNING **: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+ago 13, 2019 19:42:54.74 Fontconfig warning: "/etc/fonts/fonts.conf", line 100: unknown element "blank"
+ago 13, 2019 19:42:54.98 [10257:10257:0813/194254.986038:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+ago 13, 2019 19:42:55.06 [10216:10238:0813/194255.061163:ERROR:browser_process_sub_thread.cc(209)] Waited 8 ms for network service
+ago 13, 2019 19:42:55.08 Abrindo em uma sessão de navegador existente.
+ago 13, 2019 20:21:24.09 
+ago 13, 2019 20:21:24.09 (google-chrome:12436): Gtk-WARNING **: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+ago 13, 2019 20:21:24.14 Fontconfig warning: "/etc/fonts/fonts.conf", line 100: unknown element "blank"
+ago 13, 2019 20:21:24.40 [12491:12491:0813/202124.401242:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+ago 13, 2019 20:21:24.47 Abrindo em uma sessão de navegador existente.
+ago 13, 2019 20:32:28.32 
+ago 13, 2019 20:32:28.32 (google-chrome:13240): Gtk-WARNING **: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+ago 13, 2019 20:32:28.36 Fontconfig warning: "/etc/fonts/fonts.conf", line 100: unknown element "blank"
+ago 13, 2019 20:32:28.64 [13281:13281:0813/203228.645002:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+ago 13, 2019 20:32:28.71 [13240:13262:0813/203228.710442:ERROR:browser_process_sub_thread.cc(209)] Waited 5 ms for network service
+ago 13, 2019 20:32:28.72 Abrindo em uma sessão de navegador existente.
+
+ago 14, 2019 20:09:28.92 NEW SESSION
+ago 14, 2019 20:09:28.92 
+ago 14, 2019 20:09:28.92 (google-chrome:14537): Gtk-WARNING **: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+ago 14, 2019 20:09:28.96 Fontconfig warning: "/etc/fonts/fonts.conf", line 100: unknown element "blank"
+ago 14, 2019 20:09:29.21 [14579:14579:0814/200929.210299:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+ago 14, 2019 20:09:29.28 [14537:14561:0814/200929.286914:ERROR:browser_process_sub_thread.cc(209)] Waited 1 ms for network service
+ago 14, 2019 20:09:29.30 Abrindo em uma sessão de navegador existente.
+ago 14, 2019 21:48:29.53 
+ago 14, 2019 21:48:29.53 (google-chrome:22083): Gtk-WARNING **: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+ago 14, 2019 21:48:29.58 Fontconfig warning: "/etc/fonts/fonts.conf", line 100: unknown element "blank"
+ago 14, 2019 21:48:29.87 [22124:22124:0814/214829.879417:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+ago 14, 2019 21:48:29.90 Abrindo em uma sessão de navegador existente.
+
+ago 19, 2019 19:37:28.21 NEW SESSION
+ago 19, 2019 19:37:28.21 
+ago 19, 2019 19:37:28.22 (google-chrome:10324): Gtk-WARNING **: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+ago 19, 2019 19:37:28.26 Fontconfig warning: "/etc/fonts/fonts.conf", line 100: unknown element "blank"
+ago 19, 2019 19:37:28.52 [10366:10366:0819/193728.529189:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+ago 19, 2019 19:37:28.62 [10324:10347:0819/193728.620557:ERROR:browser_process_sub_thread.cc(209)] Waited 4 ms for network service
+ago 19, 2019 19:37:28.63 Abrindo em uma sessão de navegador existente.
+
+ago 20, 2019 18:57:19.83 NEW SESSION
+ago 20, 2019 18:57:19.83 
+ago 20, 2019 18:57:19.83 (google-chrome:6228): Gtk-WARNING **: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+ago 20, 2019 18:57:19.87 Fontconfig warning: "/etc/fonts/fonts.conf", line 100: unknown element "blank"
+ago 20, 2019 18:57:20.12 [6291:6291:0820/185720.126625:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+ago 20, 2019 18:57:20.63 [6228:6273:0820/185720.637603:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -109
+ago 20, 2019 18:57:48.59 [6228:6273:0820/185748.589625:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -109
+ago 20, 2019 18:58:35.80 [6228:6273:0820/185835.807196:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -109
+ago 20, 2019 19:00:07.53 [6228:6273:0820/190007.530117:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -109
+ago 20, 2019 19:02:59.21 [6228:6273:0820/190259.219000:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -109
+ago 20, 2019 19:07:00.22 [6228:6228:0820/190700.228317:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+ago 20, 2019 19:07:28.26 [6228:6228:0820/190728.260023:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+ago 20, 2019 19:08:19.11 [6228:6228:0820/190819.111635:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+ago 20, 2019 19:08:46.16 [6228:6273:0820/190846.160732:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -109
+ago 20, 2019 19:10:14.96 [6228:6228:0820/191014.960200:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+ago 20, 2019 19:13:40.40 [6228:6228:0820/191340.404562:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+ago 20, 2019 19:18:46.18 [6228:6273:0820/191846.187461:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -109
+ago 20, 2019 19:21:10.81 [6228:6228:0820/192110.814206:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+ago 20, 2019 19:26:21.31 [6291:6291:0820/192621.312729:ERROR:gles2_cmd_decoder.cc(18104)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+ago 20, 2019 19:26:21.31 [6291:6291:0820/192621.312787:ERROR:gles2_cmd_decoder.cc(10403)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+ago 20, 2019 19:39:44.76 
+ago 20, 2019 19:39:44.76 (file-roller:9042): Gtk-WARNING **: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+ago 20, 2019 19:39:45.19 
+ago 20, 2019 19:39:45.19 (file-roller:9042): Gtk-WARNING **: Allocating size to GtkScrolledWindow 0x561fe62c03c0 without calling gtk_widget_get_preferred_width/height(). How does the code know the size to allocate?
+ago 20, 2019 19:41:35.39 [6228:6273:0820/194135.395755:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -106
+ago 20, 2019 19:57:33.91 [6228:6273:0820/195733.917182:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -137
+ago 20, 2019 19:59:06.15 
+ago 20, 2019 19:59:06.15 (google-chrome:10804): Gtk-WARNING **: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+ago 20, 2019 19:59:06.20 Fontconfig warning: "/etc/fonts/fonts.conf", line 100: unknown element "blank"
+ago 20, 2019 19:59:06.45 [10845:10845:0820/195906.450029:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+ago 20, 2019 19:59:06.53 [10804:10827:0820/195906.535173:ERROR:browser_process_sub_thread.cc(209)] Waited 3 ms for network service
+ago 20, 2019 19:59:06.54 Abrindo em uma sessão de navegador existente.
+ago 20, 2019 20:02:51.72 
+ago 20, 2019 20:02:51.72 (google-chrome:11264): Gtk-WARNING **: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+ago 20, 2019 20:02:51.77 Fontconfig warning: "/etc/fonts/fonts.conf", line 100: unknown element "blank"
+ago 20, 2019 20:02:52.03 [11305:11305:0820/200252.034258:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+ago 20, 2019 20:02:52.09 [11264:11286:0820/200252.099597:ERROR:browser_process_sub_thread.cc(209)] Waited 1 ms for network service
+ago 20, 2019 20:02:52.10 Abrindo em uma sessão de navegador existente.
+ago 20, 2019 20:06:22.03 
+ago 20, 2019 20:06:22.03 (google-chrome:11689): Gtk-WARNING **: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+ago 20, 2019 20:06:22.08 Fontconfig warning: "/etc/fonts/fonts.conf", line 100: unknown element "blank"
+ago 20, 2019 20:06:22.34 [11731:11731:0820/200622.345756:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+ago 20, 2019 20:06:22.41 [11689:11711:0820/200622.414673:ERROR:browser_process_sub_thread.cc(209)] Waited 6 ms for network service
+ago 20, 2019 20:06:22.43 Abrindo em uma sessão de navegador existente.
+ago 20, 2019 20:11:11.90 
+ago 20, 2019 20:11:11.90 (google-chrome:12194): Gtk-WARNING **: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+ago 20, 2019 20:11:11.95 Fontconfig warning: "/etc/fonts/fonts.conf", line 100: unknown element "blank"
+ago 20, 2019 20:11:12.21 [12235:12235:0820/201112.218540:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+ago 20, 2019 20:11:12.29 Abrindo em uma sessão de navegador existente.
+
+ago 20, 2019 20:31:58.02 NEW SESSION
+ago 20, 2019 20:31:58.03 
+ago 20, 2019 20:31:58.03 (google-chrome:17402): Gtk-WARNING **: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+ago 20, 2019 20:31:58.07 Fontconfig warning: "/etc/fonts/fonts.conf", line 100: unknown element "blank"
+ago 20, 2019 20:31:58.33 [17444:17444:0820/203158.334323:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+ago 20, 2019 20:31:58.40 [17402:17425:0820/203158.400066:ERROR:browser_process_sub_thread.cc(209)] Waited 1 ms for network service
+ago 20, 2019 20:31:58.40 Abrindo em uma sessão de navegador existente.
+ago 20, 2019 20:46:45.93 
+ago 20, 2019 20:46:45.93 (google-chrome:18668): Gtk-WARNING **: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+ago 20, 2019 20:46:45.98 Fontconfig warning: "/etc/fonts/fonts.conf", line 100: unknown element "blank"
+ago 20, 2019 20:46:46.26 [18710:18710:0820/204646.268576:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+ago 20, 2019 20:46:46.36 [18668:18691:0820/204646.365848:ERROR:browser_process_sub_thread.cc(209)] Waited 6 ms for network service
+ago 20, 2019 20:46:46.38 Abrindo em uma sessão de navegador existente.
+
+ago 21, 2019 17:05:17.49 NEW SESSION
+ago 21, 2019 17:05:17.49 
+ago 21, 2019 17:05:17.49 (google-chrome:7202): Gtk-WARNING **: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+ago 21, 2019 17:05:17.53 Fontconfig warning: "/etc/fonts/fonts.conf", line 100: unknown element "blank"
+ago 21, 2019 17:05:17.80 [7244:7244:0821/170517.804256:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+ago 21, 2019 17:05:17.86 Abrindo em uma sessão de navegador existente.
+
+ago 22, 2019 19:00:03.13 NEW SESSION
+ago 22, 2019 19:00:03.13 
+ago 22, 2019 19:00:03.13 (google-chrome:6177): Gtk-WARNING **: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+ago 22, 2019 19:00:03.17 Fontconfig warning: "/etc/fonts/fonts.conf", line 100: unknown element "blank"
+ago 22, 2019 19:00:03.43 [6218:6218:0822/190003.430207:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+ago 22, 2019 19:00:03.87 [6177:6200:0822/190003.876027:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -109
+ago 22, 2019 19:00:03.92 [6177:6200:0822/190003.926909:ERROR:checkin_request.cc(219)] Failed to get checkin response. Fetcher failed. Retrying.
+ago 22, 2019 19:00:27.42 [6177:6200:0822/190027.420139:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -109
+ago 22, 2019 19:00:29.12 [6177:6200:0822/190029.121093:ERROR:checkin_request.cc(219)] Failed to get checkin response. Fetcher failed. Retrying.
+ago 22, 2019 19:00:37.07 [6177:6177:0822/190037.076023:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-109).
+ago 22, 2019 19:00:37.47 [6177:6177:0822/190037.470300:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-109).
+ago 22, 2019 19:01:12.56 [6177:6177:0822/190112.568388:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+ago 22, 2019 19:01:21.94 [6177:6200:0822/190121.947787:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -109
+ago 22, 2019 19:01:28.05 [6177:6200:0822/190128.057972:ERROR:checkin_request.cc(219)] Failed to get checkin response. Fetcher failed. Retrying.
+ago 22, 2019 19:01:41.87 [6177:6177:0822/190141.875629:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+ago 22, 2019 19:02:25.14 [6177:6177:0822/190225.141349:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+ago 22, 2019 19:02:53.93 [6177:6200:0822/190253.932483:ERROR:checkin_request.cc(219)] Failed to get checkin response. Fetcher failed. Retrying.
+ago 22, 2019 19:03:19.22 [6177:6200:0822/190319.226420:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -109
+ago 22, 2019 19:03:59.61 [6177:6177:0822/190359.615185:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+ago 22, 2019 19:15:32.53 
+ago 22, 2019 19:15:32.53 (google-chrome:7496): Gtk-WARNING **: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+ago 22, 2019 19:15:32.57 Fontconfig warning: "/etc/fonts/fonts.conf", line 100: unknown element "blank"
+ago 22, 2019 19:15:32.84 [7538:7538:0822/191532.847692:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+ago 22, 2019 19:15:32.90 [7496:7518:0822/191532.902071:ERROR:browser_process_sub_thread.cc(209)] Waited 3 ms for network service
+ago 22, 2019 19:15:32.92 Abrindo em uma sessão de navegador existente.
+ago 22, 2019 19:20:44.58 
+ago 22, 2019 19:20:44.58 (google-chrome:8074): Gtk-WARNING **: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+ago 22, 2019 19:20:44.62 Fontconfig warning: "/etc/fonts/fonts.conf", line 100: unknown element "blank"
+ago 22, 2019 19:20:44.87 [8115:8115:0822/192044.877670:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+ago 22, 2019 19:20:44.94 [8074:8096:0822/192044.941218:ERROR:browser_process_sub_thread.cc(209)] Waited 4 ms for network service
+ago 22, 2019 19:20:44.95 Abrindo em uma sessão de navegador existente.
+ago 22, 2019 19:23:38.05 
+ago 22, 2019 19:23:38.06 (google-chrome:8603): Gtk-WARNING **: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+ago 22, 2019 19:23:38.11 Fontconfig warning: "/etc/fonts/fonts.conf", line 100: unknown element "blank"
+ago 22, 2019 19:23:38.41 [8642:8642:0822/192338.416054:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+ago 22, 2019 19:23:38.50 [8603:8625:0822/192338.508897:ERROR:browser_process_sub_thread.cc(209)] Waited 4 ms for network service
+ago 22, 2019 19:23:38.52 Abrindo em uma sessão de navegador existente.
+
+ago 22, 2019 19:34:18.42 NEW SESSION
+ago 22, 2019 19:34:18.42 
+ago 22, 2019 19:34:18.42 (google-chrome:9674): Gtk-WARNING **: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+ago 22, 2019 19:34:18.48 Fontconfig warning: "/etc/fonts/fonts.conf", line 100: unknown element "blank"
+ago 22, 2019 19:34:18.81 [9715:9715:0822/193418.810385:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+ago 22, 2019 19:34:18.89 [9674:9697:0822/193418.896232:ERROR:browser_process_sub_thread.cc(209)] Waited 5 ms for network service
+ago 22, 2019 19:34:18.90 Abrindo em uma sessão de navegador existente.
+ago 22, 2019 19:38:28.55 
+ago 22, 2019 19:38:28.55 (google-chrome:10201): Gtk-WARNING **: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+ago 22, 2019 19:38:28.59 Fontconfig warning: "/etc/fonts/fonts.conf", line 100: unknown element "blank"
+ago 22, 2019 19:38:28.86 [10242:10242:0822/193828.863194:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+ago 22, 2019 19:38:28.93 Abrindo em uma sessão de navegador existente.
+ago 22, 2019 19:42:36.79 
+ago 22, 2019 19:42:36.79 (google-chrome:10536): Gtk-WARNING **: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+ago 22, 2019 19:42:36.84 Fontconfig warning: "/etc/fonts/fonts.conf", line 100: unknown element "blank"
+ago 22, 2019 19:42:37.09 [10576:10576:0822/194237.091672:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+ago 22, 2019 19:42:37.15 [10536:10559:0822/194237.156211:ERROR:browser_process_sub_thread.cc(209)] Waited 3 ms for network service
+ago 22, 2019 19:42:37.16 Abrindo em uma sessão de navegador existente.
+
+ago 22, 2019 20:27:57.35 NEW SESSION
+ago 22, 2019 20:27:57.35 
+ago 22, 2019 20:27:57.35 (google-chrome:11374): Gtk-WARNING **: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+ago 22, 2019 20:27:57.39 Fontconfig warning: "/etc/fonts/fonts.conf", line 100: unknown element "blank"
+ago 22, 2019 20:27:57.65 [11417:11417:0822/202757.658394:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+ago 22, 2019 20:27:57.74 [11374:11397:0822/202757.746064:ERROR:browser_process_sub_thread.cc(209)] Waited 6 ms for network service
+ago 22, 2019 20:27:57.75 Abrindo em uma sessão de navegador existente.
+ago 22, 2019 20:29:49.79 
+ago 22, 2019 20:29:49.79 (google-chrome:11751): Gtk-WARNING **: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+ago 22, 2019 20:29:49.83 Fontconfig warning: "/etc/fonts/fonts.conf", line 100: unknown element "blank"
+ago 22, 2019 20:29:50.08 [11791:11791:0822/202950.081530:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+ago 22, 2019 20:29:50.16 Abrindo em uma sessão de navegador existente.
+ago 22, 2019 20:31:20.11 
+ago 22, 2019 20:31:20.11 (google-chrome:12107): Gtk-WARNING **: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+ago 22, 2019 20:31:20.15 Fontconfig warning: "/etc/fonts/fonts.conf", line 100: unknown element "blank"
+ago 22, 2019 20:31:20.42 [12146:12146:0822/203120.423174:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+ago 22, 2019 20:31:20.48 Abrindo em uma sessão de navegador existente.
+
+ago 23, 2019 21:13:05.81 NEW SESSION
+ago 23, 2019 21:13:05.81 
+ago 23, 2019 21:13:05.81 (google-chrome:13767): Gtk-WARNING **: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+ago 23, 2019 21:13:05.85 Fontconfig warning: "/etc/fonts/fonts.conf", line 100: unknown element "blank"
+ago 23, 2019 21:13:06.11 [13809:13809:0823/211306.113527:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+ago 23, 2019 21:13:06.16 Abrindo em uma sessão de navegador existente.
+
+ago 25, 2019 15:51:21.20 NEW SESSION
+ago 25, 2019 15:51:21.20 
+ago 25, 2019 15:51:21.20 (google-chrome:16578): Gtk-WARNING **: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+ago 25, 2019 15:51:21.24 Fontconfig warning: "/etc/fonts/fonts.conf", line 100: unknown element "blank"
+ago 25, 2019 15:51:21.51 [16623:16623:0825/155121.518766:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+ago 25, 2019 15:51:21.59 [16578:16601:0825/155121.594935:ERROR:browser_process_sub_thread.cc(209)] Waited 10 ms for network service
+ago 25, 2019 15:51:21.60 Abrindo em uma sessão de navegador existente.
+
+ago 25, 2019 22:52:49.59 NEW SESSION
+ago 25, 2019 22:52:49.59 
+ago 25, 2019 22:52:49.59 (google-chrome:5584): Gtk-WARNING **: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+ago 25, 2019 22:52:49.63 Fontconfig warning: "/etc/fonts/fonts.conf", line 100: unknown element "blank"
+ago 25, 2019 22:52:49.90 [5628:5628:0825/225249.907424:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+ago 25, 2019 23:07:49.17 [5628:5758:0825/230749.171014:ERROR:latency_info.cc(147)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+ago 25, 2019 23:07:50.12 [5628:5758:0825/230750.123315:ERROR:latency_info.cc(147)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+ago 25, 2019 23:07:50.99 [5628:5758:0825/230750.990787:ERROR:latency_info.cc(147)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+ago 25, 2019 23:07:51.84 [5628:5758:0825/230751.840707:ERROR:latency_info.cc(147)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+ago 25, 2019 23:07:52.70 [5628:5758:0825/230752.706822:ERROR:latency_info.cc(147)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+ago 25, 2019 23:07:54.55 [5628:5758:0825/230754.558596:ERROR:latency_info.cc(147)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+ago 25, 2019 23:13:01.39 [5584:5607:0825/231301.390510:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -106
+ago 26, 2019 18:51:47.59 [5584:5607:0826/185147.595510:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -137
+ago 26, 2019 18:51:55.50 [5584:5607:0826/185155.506490:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -109
+ago 26, 2019 18:53:17.16 [5584:5607:0826/185317.166617:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -109
+ago 26, 2019 18:56:56.15 [5584:5607:0826/185656.152768:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -109
+ago 26, 2019 19:03:51.11 [5584:5607:0826/190351.113916:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -109
+ago 26, 2019 19:05:18.07 [5584:5584:0826/190518.073009:ERROR:CONSOLE(24)] "Empty response arrived for script 'chrome-devtools://devtools/remote/serve_file/@f9b0bec6063ea50ce2b71f5b9abbae7beee319a6/product_registry_impl/product_registry_impl_module.js'", source: chrome-devtools://devtools/bundled/shell.js (24)
+ago 26, 2019 19:05:18.08 [5584:5584:0826/190518.080243:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:18.08 [5584:5584:0826/190518.080329:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:18.08 [5584:5584:0826/190518.080374:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:18.08 [5584:5584:0826/190518.080428:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:18.08 [5584:5584:0826/190518.080474:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:18.08 [5584:5584:0826/190518.080534:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:19.43 [5584:5584:0826/190519.432392:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:19.48 [5584:5584:0826/190519.487174:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:19.48 [5584:5584:0826/190519.488044:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:19.48 [5584:5584:0826/190519.488114:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:19.48 [5584:5584:0826/190519.488181:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:19.48 [5584:5584:0826/190519.489021:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:19.48 [5584:5584:0826/190519.489109:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:19.48 [5584:5584:0826/190519.489198:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:19.49 [5584:5584:0826/190519.489261:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:19.49 [5584:5584:0826/190519.489348:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:19.96 [5584:5584:0826/190519.964705:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:19.99 [5584:5584:0826/190519.992458:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:19.99 [5584:5584:0826/190519.993060:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:19.99 [5584:5584:0826/190519.993153:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:19.99 [5584:5584:0826/190519.993234:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:19.99 [5584:5584:0826/190519.993334:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:19.99 [5584:5584:0826/190519.993413:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:19.99 [5584:5584:0826/190519.993514:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:19.99 [5584:5584:0826/190519.993595:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:19.99 [5584:5584:0826/190519.993695:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:19.99 [5584:5584:0826/190519.993769:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:19.99 [5584:5584:0826/190519.993836:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:19.99 [5584:5584:0826/190519.993886:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:19.99 [5584:5584:0826/190519.993997:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:20.67 [5584:5584:0826/190520.670884:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:20.70 [5584:5584:0826/190520.699944:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:20.70 [5584:5584:0826/190520.700682:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:20.70 [5584:5584:0826/190520.700747:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:20.70 [5584:5584:0826/190520.700809:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:20.70 [5584:5584:0826/190520.700851:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:20.70 [5584:5584:0826/190520.700905:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:20.70 [5584:5584:0826/190520.700942:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:20.70 [5584:5584:0826/190520.700988:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:20.70 [5584:5584:0826/190520.701026:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:20.70 [5584:5584:0826/190520.701072:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:20.70 [5584:5584:0826/190520.701109:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:20.70 [5584:5584:0826/190520.701156:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:20.70 [5584:5584:0826/190520.701193:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:20.70 [5584:5584:0826/190520.701262:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:20.70 [5584:5584:0826/190520.701314:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:20.70 [5584:5584:0826/190520.701891:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:20.71 [5584:5584:0826/190520.711897:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.13 [5584:5584:0826/190521.133791:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.17 [5584:5584:0826/190521.171766:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.17 [5584:5584:0826/190521.171843:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.17 [5584:5584:0826/190521.171905:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.17 [5584:5584:0826/190521.171952:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.17 [5584:5584:0826/190521.172008:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.17 [5584:5584:0826/190521.172051:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.17 [5584:5584:0826/190521.172113:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.17 [5584:5584:0826/190521.172180:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.17 [5584:5584:0826/190521.172233:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.17 [5584:5584:0826/190521.172297:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.17 [5584:5584:0826/190521.174259:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.17 [5584:5584:0826/190521.174350:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.17 [5584:5584:0826/190521.174415:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.17 [5584:5584:0826/190521.174613:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.17 [5584:5584:0826/190521.176271:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.17 [5584:5584:0826/190521.176416:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.17 [5584:5584:0826/190521.176482:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.17 [5584:5584:0826/190521.176556:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.17 [5584:5584:0826/190521.176620:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.17 [5584:5584:0826/190521.176695:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.17 [5584:5584:0826/190521.177026:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.17 [5584:5584:0826/190521.177101:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.30 [5584:5584:0826/190521.308278:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.34 [5584:5584:0826/190521.344642:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.34 [5584:5584:0826/190521.345114:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.34 [5584:5584:0826/190521.345168:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.34 [5584:5584:0826/190521.345233:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.34 [5584:5584:0826/190521.345282:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.34 [5584:5584:0826/190521.345344:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.34 [5584:5584:0826/190521.345393:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.34 [5584:5584:0826/190521.345453:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.34 [5584:5584:0826/190521.345504:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.34 [5584:5584:0826/190521.345564:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.34 [5584:5584:0826/190521.345613:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.34 [5584:5584:0826/190521.345673:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.34 [5584:5584:0826/190521.345720:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.34 [5584:5584:0826/190521.345780:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.34 [5584:5584:0826/190521.345826:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.34 [5584:5584:0826/190521.345884:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.34 [5584:5584:0826/190521.345932:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.34 [5584:5584:0826/190521.345992:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.34 [5584:5584:0826/190521.346039:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.34 [5584:5584:0826/190521.346100:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.37 [5584:5584:0826/190521.369871:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.37 [5584:5584:0826/190521.369971:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.49 [5584:5584:0826/190521.493260:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.53 [5584:5584:0826/190521.530099:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.53 [5584:5584:0826/190521.531777:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.53 [5584:5584:0826/190521.531852:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.53 [5584:5584:0826/190521.533226:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.53 [5584:5584:0826/190521.533370:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.53 [5584:5584:0826/190521.533448:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.53 [5584:5584:0826/190521.533508:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.53 [5584:5584:0826/190521.533576:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.53 [5584:5584:0826/190521.533637:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.53 [5584:5584:0826/190521.533705:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.53 [5584:5584:0826/190521.533761:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.53 [5584:5584:0826/190521.533828:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.53 [5584:5584:0826/190521.533884:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.53 [5584:5584:0826/190521.533952:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.53 [5584:5584:0826/190521.534008:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.53 [5584:5584:0826/190521.534074:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.54 [5584:5584:0826/190521.534131:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.54 [5584:5584:0826/190521.534198:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.54 [5584:5584:0826/190521.534254:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.54 [5584:5584:0826/190521.534320:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.54 [5584:5584:0826/190521.543238:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:05:21.54 [5584:5584:0826/190521.543317:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:13:56.14 [5584:5607:0826/191356.139778:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -109
+ago 26, 2019 19:19:18.20 [5584:5607:0826/191918.200100:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -106
+ago 26, 2019 19:19:28.62 [5584:5607:0826/191928.628580:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -109
+ago 26, 2019 19:19:51.70 [5584:5584:0826/191951.708737:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:51.79 [5584:5584:0826/191951.791635:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:51.79 [5584:5584:0826/191951.791720:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:51.79 [5584:5584:0826/191951.791883:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:51.79 [5584:5584:0826/191951.791962:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:51.79 [5584:5584:0826/191951.792013:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:51.79 [5584:5584:0826/191951.792070:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:51.79 [5584:5584:0826/191951.792113:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:51.79 [5584:5584:0826/191951.792165:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:51.79 [5584:5584:0826/191951.792209:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:51.79 [5584:5584:0826/191951.792261:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:51.79 [5584:5584:0826/191951.792303:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:51.79 [5584:5584:0826/191951.792355:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:51.79 [5584:5584:0826/191951.792397:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:51.79 [5584:5584:0826/191951.792450:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:51.79 [5584:5584:0826/191951.792492:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:51.79 [5584:5584:0826/191951.792545:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:51.79 [5584:5584:0826/191951.792591:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:51.79 [5584:5584:0826/191951.792655:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:51.79 [5584:5584:0826/191951.792703:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:51.79 [5584:5584:0826/191951.793027:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:52.39 [5584:5584:0826/191952.395313:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:52.39 [5584:5584:0826/191952.396769:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:52.39 [5584:5584:0826/191952.396835:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:52.39 [5584:5584:0826/191952.396915:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:52.39 [5584:5584:0826/191952.396977:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:52.39 [5584:5584:0826/191952.397054:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:52.39 [5584:5584:0826/191952.397116:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:52.39 [5584:5584:0826/191952.397178:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:52.39 [5584:5584:0826/191952.397232:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:52.39 [5584:5584:0826/191952.397293:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:52.39 [5584:5584:0826/191952.397340:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:52.39 [5584:5584:0826/191952.397424:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:52.39 [5584:5584:0826/191952.397482:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:52.39 [5584:5584:0826/191952.397546:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:52.39 [5584:5584:0826/191952.397620:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:52.39 [5584:5584:0826/191952.397684:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:52.39 [5584:5584:0826/191952.397762:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:52.39 [5584:5584:0826/191952.397824:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:52.40 [5584:5584:0826/191952.397901:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:52.40 [5584:5584:0826/191952.397964:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:52.45 [5584:5584:0826/191952.454345:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:52.45 [5584:5584:0826/191952.454516:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:52.45 [5584:5584:0826/191952.454573:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:52.45 [5584:5584:0826/191952.454641:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:52.45 [5584:5584:0826/191952.454698:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:52.45 [5584:5584:0826/191952.454770:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:52.45 [5584:5584:0826/191952.454831:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:52.45 [5584:5584:0826/191952.454921:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:52.46 [5584:5584:0826/191952.467056:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:57.48 [5584:5584:0826/191957.483233:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:58.46 [5584:5584:0826/191958.463537:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:58.57 [5584:5584:0826/191958.575059:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:58.57 [5584:5584:0826/191958.575139:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:58.57 [5584:5584:0826/191958.575201:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:58.57 [5584:5584:0826/191958.575241:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:58.57 [5584:5584:0826/191958.575307:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:58.57 [5584:5584:0826/191958.575356:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:58.57 [5584:5584:0826/191958.575420:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:58.57 [5584:5584:0826/191958.575471:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:58.57 [5584:5584:0826/191958.575536:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:58.58 [5584:5584:0826/191958.576625:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:58.58 [5584:5584:0826/191958.576711:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:58.58 [5584:5584:0826/191958.576783:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:58.58 [5584:5584:0826/191958.576842:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:58.58 [5584:5584:0826/191958.576914:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:58.58 [5584:5584:0826/191958.577431:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:58.58 [5584:5584:0826/191958.577515:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:58.58 [5584:5584:0826/191958.577601:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:58.58 [5584:5584:0826/191958.577672:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:58.58 [5584:5584:0826/191958.577733:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:58.58 [5584:5584:0826/191958.577805:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:59.13 [5584:5584:0826/191959.137965:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:59.25 [5584:5584:0826/191959.255563:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:59.26 [5584:5584:0826/191959.260628:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:59.37 [5584:5584:0826/191959.379563:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:59.38 [5584:5584:0826/191959.380350:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:59.38 [5584:5584:0826/191959.380411:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:19:59.38 [5584:5584:0826/191959.388013:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:33:41.32 [5584:5584:0826/193341.325719:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:33:41.32 [5584:5584:0826/193341.325786:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:33:41.32 [5584:5584:0826/193341.325849:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:33:41.32 [5584:5584:0826/193341.325895:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:33:41.32 [5584:5584:0826/193341.325956:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:33:41.32 [5584:5584:0826/193341.326005:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:33:41.32 [5584:5584:0826/193341.326061:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:33:41.32 [5584:5584:0826/193341.326103:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:33:41.32 [5584:5584:0826/193341.326158:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:33:41.32 [5584:5584:0826/193341.326201:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:33:41.32 [5584:5584:0826/193341.326259:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:33:41.32 [5584:5584:0826/193341.326316:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:33:41.32 [5584:5584:0826/193341.326387:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:33:41.32 [5584:5584:0826/193341.326449:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:33:41.32 [5584:5584:0826/193341.326540:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:33:41.32 [5584:5584:0826/193341.326602:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:33:41.32 [5584:5584:0826/193341.326670:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:33:41.32 [5584:5584:0826/193341.326728:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:33:41.32 [5584:5584:0826/193341.326799:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:33:41.32 [5584:5584:0826/193341.326855:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:20.30 [5584:5584:0826/193520.304603:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:20.30 [5584:5584:0826/193520.305249:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:20.30 [5584:5584:0826/193520.307071:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:20.30 [5584:5584:0826/193520.307914:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:20.30 [5584:5584:0826/193520.308140:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:20.30 [5584:5584:0826/193520.308284:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:20.30 [5584:5584:0826/193520.308349:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:20.30 [5584:5584:0826/193520.308401:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:20.30 [5584:5584:0826/193520.308463:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:20.30 [5584:5584:0826/193520.308515:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:20.30 [5584:5584:0826/193520.308579:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:20.30 [5584:5584:0826/193520.308634:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:20.30 [5584:5584:0826/193520.308703:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:20.30 [5584:5584:0826/193520.308760:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:20.31 [5584:5584:0826/193520.308826:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:20.31 [5584:5584:0826/193520.308879:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:20.31 [5584:5584:0826/193520.308953:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:20.31 [5584:5584:0826/193520.310768:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:20.31 [5584:5584:0826/193520.311540:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:20.31 [5584:5584:0826/193520.311628:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:21.91 [5584:5584:0826/193521.916750:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:21.91 [5584:5584:0826/193521.916857:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:21.91 [5584:5584:0826/193521.916945:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:21.91 [5584:5584:0826/193521.916984:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:21.91 [5584:5584:0826/193521.917030:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:21.91 [5584:5584:0826/193521.917068:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.581920:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.581992:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.582073:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.582138:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.582214:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.582278:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.582355:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.582420:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.582501:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.582567:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.582642:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.582707:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.582784:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.582848:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.582957:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.583568:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.583655:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.583719:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.583797:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.583860:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.583955:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.584033:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.584101:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.584178:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.584241:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.584316:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.584381:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.584508:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.584567:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.584644:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.584708:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.587067:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.587188:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.587254:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.587329:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.587391:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.587470:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.587542:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.587627:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.587696:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.587786:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.587863:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.587944:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.588012:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.588097:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.588167:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.588249:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.588319:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.588404:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.588475:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.588554:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.588650:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.58 [5584:5584:0826/193522.588733:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.588802:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.588888:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.588952:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.589023:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.589087:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.589162:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.589227:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.589304:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.589370:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.589450:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.589518:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.589600:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.589668:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.589749:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.589812:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.589894:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.589963:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.590042:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.590112:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.590197:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.590265:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.590345:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.590426:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.590506:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.590575:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.590654:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.590724:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.590803:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.590874:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.590977:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.591048:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.591128:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.591201:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.591288:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.591432:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.594469:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.595174:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.595282:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.595343:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.595416:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.595480:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.595555:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.595619:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.595697:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.595763:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.595831:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.59 [5584:5584:0826/193522.595886:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.78 [5584:5584:0826/193522.788528:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.79 [5584:5584:0826/193522.790870:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.79 [5584:5584:0826/193522.790980:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.79 [5584:5584:0826/193522.791034:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.79 [5584:5584:0826/193522.791091:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:22.79 [5584:5584:0826/193522.791789:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:23.61 [5584:5584:0826/193523.613835:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:23.61 [5584:5584:0826/193523.613916:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:23.61 [5584:5584:0826/193523.613981:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:23.61 [5584:5584:0826/193523.614022:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:23.61 [5584:5584:0826/193523.614078:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:23.61 [5584:5584:0826/193523.614120:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:23.61 [5584:5584:0826/193523.614174:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:23.61 [5584:5584:0826/193523.614214:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:23.61 [5584:5584:0826/193523.614265:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:23.61 [5584:5584:0826/193523.614310:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:23.61 [5584:5584:0826/193523.614370:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:23.61 [5584:5584:0826/193523.614413:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:23.61 [5584:5584:0826/193523.614470:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:23.61 [5584:5584:0826/193523.614511:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:23.61 [5584:5584:0826/193523.614564:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:23.61 [5584:5584:0826/193523.614607:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:23.61 [5584:5584:0826/193523.614659:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:23.61 [5584:5584:0826/193523.614697:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:23.61 [5584:5584:0826/193523.614749:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:23.61 [5584:5584:0826/193523.614791:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:23.61 [5584:5584:0826/193523.615521:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:23.61 [5584:5584:0826/193523.615603:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:35:23.61 [5584:5584:0826/193523.615686:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/shell.js (108)
+ago 26, 2019 19:42:45.15 Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+ago 26, 2019 19:44:09.59 Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+ago 26, 2019 19:46:38.06 [5584:5607:0826/194638.064250:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -106
+ago 26, 2019 20:16:36.68 [5584:5607:0826/201636.688754:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -137
+ago 26, 2019 20:44:22.83 [5584:5607:0826/204422.833190:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -106
+ago 26, 2019 20:52:18.13 [5584:5607:0826/205218.139257:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -137
+ago 26, 2019 21:22:53.66 [5584:5584:0826/212253.667787:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+ago 26, 2019 22:11:23.05 [5584:5607:0826/221123.058529:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -106
+ago 27, 2019 18:55:11.43 [5584:5607:0827/185511.435204:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -137
+ago 27, 2019 18:55:15.52 [5584:5607:0827/185515.523402:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -109
+ago 27, 2019 19:06:28.86 [5584:5584:0827/190628.866543:ERROR:textfield.cc(1768)] Not implemented reached in virtual bool views::Textfield::ShouldDoLearning()
+ago 27, 2019 19:30:17.64 [5634:5699:0827/193017.647559:ERROR:ssl_client_socket_impl.cc(962)] handshake failed; returned -1, SSL error code 1, net_error -101
+ago 27, 2019 19:30:18.04 [5634:5699:0827/193018.040503:ERROR:ssl_client_socket_impl.cc(962)] handshake failed; returned -1, SSL error code 1, net_error -101
+ago 27, 2019 19:30:18.78 [5634:5699:0827/193018.785404:ERROR:ssl_client_socket_impl.cc(962)] handshake failed; returned -1, SSL error code 1, net_error -101
+ago 27, 2019 19:30:19.44 [5634:5699:0827/193019.449611:ERROR:ssl_client_socket_impl.cc(962)] handshake failed; returned -1, SSL error code 1, net_error -101
+ago 27, 2019 19:30:20.20 [5634:5699:0827/193020.207777:ERROR:ssl_client_socket_impl.cc(962)] handshake failed; returned -1, SSL error code 1, net_error -101
+ago 27, 2019 19:36:00.50 [5584:5607:0827/193600.500169:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -106
+ago 27, 2019 19:58:24.81 [5584:5607:0827/195824.810748:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -137
+ago 27, 2019 20:00:34.86 [5634:5699:0827/200034.866790:ERROR:ssl_client_socket_impl.cc(962)] handshake failed; returned -1, SSL error code 1, net_error -101
+ago 27, 2019 20:00:35.92 [5634:5699:0827/200035.921292:ERROR:ssl_client_socket_impl.cc(962)] handshake failed; returned -1, SSL error code 1, net_error -101
+ago 27, 2019 20:00:37.14 [5634:5699:0827/200037.141740:ERROR:ssl_client_socket_impl.cc(962)] handshake failed; returned -1, SSL error code 1, net_error -101
+ago 27, 2019 20:00:37.14 [5634:5699:0827/200037.142357:ERROR:ssl_client_socket_impl.cc(962)] handshake failed; returned -1, SSL error code 1, net_error -101
+ago 27, 2019 20:00:38.09 [5634:5699:0827/200038.095972:ERROR:ssl_client_socket_impl.cc(962)] handshake failed; returned -1, SSL error code 1, net_error -101
+ago 27, 2019 20:30:31.74 [5628:5628:0827/203031.747105:ERROR:context_group.cc(444)] ContextResult::kFatalFailure: maximum vertex output components is too small (0, should be 64).
+ago 27, 2019 20:33:12.18 [5584:5761:0827/203312.186803:ERROR:object_proxy.cc(621)] Failed to call method: org.gnome.SessionManager.Inhibit: object_path= /org/gnome/SessionManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+ago 27, 2019 20:33:12.18 [5584:5761:0827/203312.186844:ERROR:power_save_blocker_x11.cc(330)] No response to Inhibit() request!
+ago 27, 2019 20:33:12.31 [5584:5761:0827/203312.312273:ERROR:object_proxy.cc(621)] Failed to call method: org.gnome.SessionManager.Inhibit: object_path= /org/gnome/SessionManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+ago 27, 2019 20:33:12.31 [5584:5761:0827/203312.312315:ERROR:power_save_blocker_x11.cc(330)] No response to Inhibit() request!
+ago 27, 2019 20:33:45.01 [5584:5761:0827/203345.010251:ERROR:object_proxy.cc(621)] Failed to call method: org.gnome.SessionManager.Uninhibit: object_path= /org/gnome/SessionManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+ago 27, 2019 20:33:45.01 [5584:5761:0827/203345.010288:ERROR:power_save_blocker_x11.cc(403)] No response to Uninhibit() request!
+ago 27, 2019 20:33:47.30 [5584:5761:0827/203347.308554:ERROR:object_proxy.cc(621)] Failed to call method: org.gnome.SessionManager.Inhibit: object_path= /org/gnome/SessionManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+ago 27, 2019 20:33:47.30 [5584:5761:0827/203347.308592:ERROR:power_save_blocker_x11.cc(330)] No response to Inhibit() request!
+ago 27, 2019 20:33:48.05 [5584:5761:0827/203348.059179:ERROR:object_proxy.cc(621)] Failed to call method: org.gnome.SessionManager.Uninhibit: object_path= /org/gnome/SessionManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+ago 27, 2019 20:33:48.05 [5584:5761:0827/203348.059220:ERROR:power_save_blocker_x11.cc(403)] No response to Uninhibit() request!
+ago 27, 2019 20:33:48.89 [5584:5761:0827/203348.890692:ERROR:object_proxy.cc(621)] Failed to call method: org.gnome.SessionManager.Uninhibit: object_path= /org/gnome/SessionManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+ago 27, 2019 20:33:48.89 [5584:5761:0827/203348.890736:ERROR:power_save_blocker_x11.cc(403)] No response to Uninhibit() request!
+ago 27, 2019 20:33:57.56 [5584:5761:0827/203357.563846:ERROR:object_proxy.cc(621)] Failed to call method: org.gnome.SessionManager.Inhibit: object_path= /org/gnome/SessionManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+ago 27, 2019 20:33:57.56 [5584:5761:0827/203357.563892:ERROR:power_save_blocker_x11.cc(330)] No response to Inhibit() request!
+ago 27, 2019 20:34:03.32 [5584:5761:0827/203403.327933:ERROR:object_proxy.cc(621)] Failed to call method: org.gnome.SessionManager.Inhibit: object_path= /org/gnome/SessionManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+ago 27, 2019 20:34:03.32 [5584:5761:0827/203403.328428:ERROR:power_save_blocker_x11.cc(330)] No response to Inhibit() request!
+ago 27, 2019 20:35:41.40 [5584:5761:0827/203541.402110:ERROR:object_proxy.cc(621)] Failed to call method: org.gnome.SessionManager.Uninhibit: object_path= /org/gnome/SessionManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+ago 27, 2019 20:35:41.40 [5584:5761:0827/203541.402149:ERROR:power_save_blocker_x11.cc(403)] No response to Uninhibit() request!
+ago 27, 2019 20:35:41.40 [5584:5761:0827/203541.405676:ERROR:object_proxy.cc(621)] Failed to call method: org.gnome.SessionManager.Uninhibit: object_path= /org/gnome/SessionManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+ago 27, 2019 20:35:41.41 [5584:5761:0827/203541.406147:ERROR:power_save_blocker_x11.cc(403)] No response to Uninhibit() request!
+ago 27, 2019 20:47:54.31 [5628:5758:0827/204754.311566:ERROR:latency_info.cc(147)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+ago 27, 2019 20:47:57.14 [5628:5758:0827/204757.143044:ERROR:latency_info.cc(147)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+ago 27, 2019 20:47:59.66 [5628:5758:0827/204759.660022:ERROR:latency_info.cc(147)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+ago 27, 2019 20:48:00.50 [5628:5758:0827/204800.509329:ERROR:latency_info.cc(147)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+ago 27, 2019 20:48:03.34 [5628:5758:0827/204803.343273:ERROR:latency_info.cc(147)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+ago 27, 2019 20:48:06.17 [5628:5758:0827/204806.176077:ERROR:latency_info.cc(147)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+
+set 06, 2019 21:25:58.74 NEW SESSION
+set 06, 2019 21:25:58.74 [5052:5052:0906/212558.741691:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+set 06, 2019 21:26:00.18 [5052:5052:0906/212600.184320:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+set 06, 2019 21:26:00.19 [5052:5052:0906/212600.192864:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+set 06, 2019 21:26:00.21 [5052:5052:0906/212600.215166:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
+set 06, 2019 21:26:00.22 [5052:5052:0906/212600.226706:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 4 times!
+set 06, 2019 21:26:00.51 [5052:5052:0906/212600.514660:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 5 times!
+set 06, 2019 21:26:00.52 [5052:5052:0906/212600.527056:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 6 times!
+set 06, 2019 21:26:00.56 [5052:5052:0906/212600.563106:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 7 times!
+set 06, 2019 21:26:00.57 [5052:5052:0906/212600.576531:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 8 times!
+set 06, 2019 21:26:00.98 [5052:5052:0906/212600.985715:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 9 times!
+set 06, 2019 21:26:00.99 [5052:5052:0906/212600.993124:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 10 times!
+set 06, 2019 21:26:01.00 [5052:5052:0906/212601.004640:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 11 times!
+set 06, 2019 21:26:01.01 [5052:5052:0906/212601.010301:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 12 times!
+set 06, 2019 21:26:01.02 [5052:5052:0906/212601.027804:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 13 times!
+set 06, 2019 21:26:01.03 [5052:5052:0906/212601.039011:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 14 times!
+set 06, 2019 21:26:01.05 [5052:5052:0906/212601.058796:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 15 times!
+set 06, 2019 21:26:01.08 [5052:5052:0906/212601.083133:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 16 times!
+set 06, 2019 21:26:01.09 [5052:5052:0906/212601.094581:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 17 times!
+set 06, 2019 21:26:01.09 [5052:5052:0906/212601.098331:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 18 times!
+set 06, 2019 21:26:01.11 [5052:5052:0906/212601.112817:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 19 times!
+set 06, 2019 21:56:02.57 [5052:5052:0906/215602.573283:ERROR:shared_image_manager.cc(120)] SharedImageManager::ProduceGLTexture: Trying to produce a representation from a non-existent mailbox.
+set 06, 2019 21:56:02.57 [5052:5052:0906/215602.573366:ERROR:gles2_cmd_decoder.cc(18538)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoCreateAndTexStorage2DSharedImageINTERNAL: invalid mailbox name
+set 06, 2019 21:56:02.57 [5052:5052:0906/215602.573418:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+set 06, 2019 21:56:02.57 [5052:5052:0906/215602.573563:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+set 06, 2019 21:56:02.57 [5052:5052:0906/215602.573652:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+set 06, 2019 21:57:11.95 [6884:6905:0906/215711.953194:ERROR:browser_process_sub_thread.cc(203)] Waited 18 ms for network service
+set 06, 2019 21:57:11.96 Abrindo em uma sessão de navegador existente.
+set 06, 2019 21:59:13.57 [5014:5039:0906/215913.573976:ERROR:browser_process_sub_thread.cc(203)] Waited 5 ms for network service
+
+set 07, 2019 23:39:13.41 NEW SESSION
+set 07, 2019 23:39:13.41 [4237:4237:0907/233913.411668:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+set 07, 2019 23:39:16.31 [4237:4237:0907/233916.317713:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+set 07, 2019 23:39:16.32 [4237:4237:0907/233916.326023:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+set 07, 2019 23:39:16.34 [4237:4237:0907/233916.342469:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
+set 07, 2019 23:39:21.99 [4237:4237:0907/233921.992095:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 4 times!
+set 07, 2019 23:39:22.00 [4237:4237:0907/233922.008669:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 5 times!
+set 07, 2019 23:39:22.03 [4237:4237:0907/233922.035047:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 6 times!
+set 07, 2019 23:39:24.21 [4237:4237:0907/233924.219332:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 7 times!
+set 07, 2019 23:39:24.22 [4237:4237:0907/233924.226017:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 8 times!
+set 07, 2019 23:39:30.18 [4237:4237:0907/233930.188340:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 9 times!
+set 07, 2019 23:39:30.19 [4237:4237:0907/233930.191894:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 10 times!
+set 07, 2019 23:39:33.25 [4237:4237:0907/233933.257165:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 11 times!
+set 07, 2019 23:39:33.25 [4237:4237:0907/233933.258030:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 12 times!
+set 07, 2019 23:39:33.27 [4237:4237:0907/233933.275862:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 13 times!
+set 07, 2019 23:40:39.29 [4237:4237:0907/234039.297324:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 14 times!
+set 07, 2019 23:40:39.30 [4237:4237:0907/234039.305939:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 15 times!
+set 07, 2019 23:40:39.31 [4237:4237:0907/234039.314148:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 16 times!
+set 07, 2019 23:41:08.80 [4237:4237:0907/234108.802336:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 17 times!
+set 07, 2019 23:41:08.80 [4237:4237:0907/234108.804735:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 18 times!
+set 07, 2019 23:41:08.82 [4237:4237:0907/234108.821255:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 19 times!
+set 08, 2019 01:35:17.44 [799:823:0908/013517.439546:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+set 08, 2019 01:35:17.44 [799:823:0908/013517.439753:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+set 08, 2019 01:35:25.14 [799:823:0908/013525.146571:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+set 08, 2019 01:35:25.14 [799:823:0908/013525.146706:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+set 08, 2019 01:35:25.78 [799:799:0908/013525.780014:ERROR:render_media_log.cc(27)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"MediaSource endOfStream before demuxer initialization completes (before HAVE_METADATA) is treated as an error. This may also occur as consequence of other MediaSource errors before HAVE_METADATA."}
+set 08, 2019 01:35:36.24 [799:823:0908/013536.243110:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+set 08, 2019 01:35:36.24 [799:823:0908/013536.243258:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+set 08, 2019 01:35:50.94 [799:823:0908/013550.947078:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+set 08, 2019 01:35:50.94 [799:823:0908/013550.947399:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+set 08, 2019 01:35:52.22 [799:799:0908/013552.222077:ERROR:render_media_log.cc(27)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"MediaSource endOfStream before demuxer initialization completes (before HAVE_METADATA) is treated as an error. This may also occur as consequence of other MediaSource errors before HAVE_METADATA."}
+set 08, 2019 01:44:07.52 [4237:4237:0908/014407.523208:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 256 times!
+set 08, 2019 02:56:59.09 [4237:4237:0908/025659.092118:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 512 times!
+set 08, 2019 22:46:53.49 [4237:4237:0908/224653.492604:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 768 times!
+set 08, 2019 23:01:41.30 [4237:4237:0908/230141.307762:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1024 times!
+set 09, 2019 18:55:44.39 [4200:4200:0909/185544.394673:ERROR:gcm_channel_status_request.cc(146)] GCM channel request failed.
+set 09, 2019 18:56:06.84 [4200:4200:0909/185606.843805:ERROR:gcm_channel_status_request.cc(146)] GCM channel request failed.
+set 09, 2019 18:56:42.88 [4237:4237:0909/185642.889605:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1280 times!
+set 09, 2019 18:56:47.82 [4200:4200:0909/185647.824304:ERROR:gcm_channel_status_request.cc(146)] GCM channel request failed.
+set 09, 2019 19:02:35.35 [4237:4237:0909/190235.354715:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1536 times!
+
+set 20, 2019 21:48:55.75 NEW SESSION
+set 20, 2019 21:48:55.76 Abrindo em uma sessão de navegador existente.
+
+set 22, 2019 23:36:17.85 NEW SESSION
+set 22, 2019 23:36:17.85 [2326:2326:0922/233617.851393:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+set 22, 2019 23:36:18.66 [2326:2326:0922/233618.660180:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 22, 2019 23:36:18.85 [2287:2287:0922/233618.855834:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Invalid credentials (credentials rejected by server).
+set 22, 2019 23:36:28.16 [2326:2326:0922/233628.159979:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 22, 2019 23:36:29.31 [2326:2326:0922/233629.314320:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 1 times!
+set 22, 2019 23:36:32.04 [2326:2326:0922/233632.042747:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 2 times!
+set 22, 2019 23:36:32.05 [2326:2326:0922/233632.051709:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 3 times!
+set 22, 2019 23:36:36.49 [2326:2326:0922/233636.491235:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 4 times!
+set 22, 2019 23:36:36.50 [2326:2326:0922/233636.500985:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 5 times!
+set 22, 2019 23:36:57.80 [2326:2326:0922/233657.804170:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 6 times!
+set 22, 2019 23:36:57.81 [2326:2326:0922/233657.817489:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 7 times!
+set 22, 2019 23:36:59.18 [2326:2326:0922/233659.183567:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 8 times!
+set 22, 2019 23:36:59.46 [2326:2326:0922/233659.465455:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 22, 2019 23:37:00.75 [2326:2326:0922/233700.754563:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 9 times!
+set 22, 2019 23:37:00.76 [2326:2326:0922/233700.767745:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 10 times!
+set 22, 2019 23:37:00.84 [2326:2326:0922/233700.840573:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 11 times!
+set 22, 2019 23:37:00.85 [2326:2326:0922/233700.850177:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 12 times!
+set 22, 2019 23:37:00.87 [2326:2326:0922/233700.872939:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 13 times!
+set 22, 2019 23:37:00.88 [2326:2326:0922/233700.884530:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 14 times!
+set 22, 2019 23:37:00.90 [2326:2326:0922/233700.900200:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 15 times!
+set 22, 2019 23:37:02.12 [2326:2326:0922/233702.129355:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 16 times!
+set 22, 2019 23:37:02.13 [2326:2326:0922/233702.133937:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 17 times!
+set 22, 2019 23:37:02.78 [2326:2326:0922/233702.784386:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 18 times!
+set 22, 2019 23:37:02.78 [2326:2326:0922/233702.789308:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 19 times!
+set 22, 2019 23:39:50.55 [84:84:0922/233950.552612:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:39:50.55 [84:84:0922/233950.556027:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:39:53.50 [123:123:0922/233953.506937:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:39:53.50 [123:123:0922/233953.508679:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:39:53.51 [123:123:0922/233953.511251:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:39:53.51 [123:123:0922/233953.513470:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:39:53.52 [123:123:0922/233953.520380:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:39:53.52 [123:123:0922/233953.523994:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:39:53.52 [123:123:0922/233953.529557:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:39:53.53 [123:123:0922/233953.534660:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:39:57.97 [2326:2326:0922/233957.975005:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 22, 2019 23:52:01.77 [2326:2326:0922/235201.777245:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 22, 2019 23:52:06.65 [2326:2326:0922/235206.653144:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 22, 2019 23:52:31.92 [2326:2326:0922/235231.922010:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 22, 2019 23:53:26.57 [2326:2326:0922/235326.574379:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 22, 2019 23:53:40.84 [2326:2326:0922/235340.843114:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 256 times!
+set 22, 2019 23:53:56.46 [186:186:0922/235356.465445:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:53:56.47 [186:186:0922/235356.474598:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:54:02.31 [185:185:0922/235402.313471:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:54:02.31 [185:185:0922/235402.315230:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:54:02.31 [185:185:0922/235402.317589:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:54:02.31 [185:185:0922/235402.319245:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:54:54.00 [185:185:0922/235454.009121:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:54:55.98 [185:185:0922/235455.985510:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:54:55.98 [185:185:0922/235455.988246:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:54:58.00 [185:185:0922/235458.001130:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:54:58.00 [185:185:0922/235458.002887:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:06.74 [185:185:0922/235506.748474:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:06.75 [185:185:0922/235506.749943:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:25.66 [313:313:0922/235525.664030:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:25.66 [313:313:0922/235525.667657:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:25.67 [313:313:0922/235525.670551:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:25.67 [313:313:0922/235525.673957:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:25.67 [313:313:0922/235525.678712:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:25.68 [313:313:0922/235525.682051:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:25.68 [313:313:0922/235525.686858:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:25.69 [313:313:0922/235525.691289:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:25.69 [313:313:0922/235525.694672:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:25.69 [313:313:0922/235525.698638:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:25.70 [313:313:0922/235525.700317:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:25.70 [313:313:0922/235525.702696:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:25.70 [313:313:0922/235525.704367:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:25.70 [313:313:0922/235525.707070:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:25.70 [313:313:0922/235525.708867:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:25.89 [313:313:0922/235525.890219:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:25.89 [313:313:0922/235525.893219:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:25.89 [313:313:0922/235525.897047:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:25.89 [313:313:0922/235525.899414:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:25.90 [313:313:0922/235525.903889:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:25.90 [313:313:0922/235525.907465:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:25.91 [313:313:0922/235525.910246:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:25.91 [313:313:0922/235525.912733:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.58 [313:313:0922/235531.587419:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.59 [313:313:0922/235531.590690:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.59 [313:313:0922/235531.594544:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.59 [313:313:0922/235531.596556:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.59 [313:313:0922/235531.599139:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.60 [313:313:0922/235531.604232:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.60 [313:313:0922/235531.608957:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.61 [313:313:0922/235531.611046:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.61 [313:313:0922/235531.613982:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.61 [313:313:0922/235531.616080:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.62 [313:313:0922/235531.620086:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.62 [313:313:0922/235531.622134:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.62 [313:313:0922/235531.624767:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.62 [313:313:0922/235531.626547:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.63 [313:313:0922/235531.630185:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.63 [313:313:0922/235531.637023:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.64 [313:313:0922/235531.641682:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.64 [313:313:0922/235531.644210:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.65 [313:313:0922/235531.649733:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.65 [313:313:0922/235531.655272:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.65 [313:313:0922/235531.659241:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.66 [313:313:0922/235531.661333:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.66 [313:313:0922/235531.664281:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.66 [313:313:0922/235531.666406:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.66 [313:313:0922/235531.669434:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.67 [313:313:0922/235531.671555:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.67 [313:313:0922/235531.674822:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.67 [313:313:0922/235531.677019:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.68 [313:313:0922/235531.681558:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.68 [313:313:0922/235531.683338:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.68 [313:313:0922/235531.686353:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.68 [313:313:0922/235531.688557:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.69 [313:313:0922/235531.691797:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.69 [313:313:0922/235531.693671:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.69 [313:313:0922/235531.698485:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.70 [313:313:0922/235531.704528:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.70 [313:313:0922/235531.708639:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.71 [313:313:0922/235531.710386:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.71 [313:313:0922/235531.715736:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.72 [313:313:0922/235531.720410:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.72 [313:313:0922/235531.724836:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.72 [313:313:0922/235531.727119:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.73 [313:313:0922/235531.730603:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.73 [313:313:0922/235531.733049:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.73 [313:313:0922/235531.737755:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.74 [313:313:0922/235531.740050:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.74 [313:313:0922/235531.744186:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.74 [313:313:0922/235531.748490:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.75 [313:313:0922/235531.755989:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.75 [313:313:0922/235531.758337:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.76 [313:313:0922/235531.761156:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.76 [313:313:0922/235531.765542:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.77 [313:313:0922/235531.773631:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.77 [313:313:0922/235531.777211:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.78 [313:313:0922/235531.780167:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.78 [313:313:0922/235531.781761:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.78 [313:313:0922/235531.787779:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.79 [313:313:0922/235531.792145:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.79 [313:313:0922/235531.793816:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.80 [313:313:0922/235531.798858:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.80 [313:313:0922/235531.804116:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.80 [313:313:0922/235531.808299:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.81 [313:313:0922/235531.810169:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.81 [313:313:0922/235531.813431:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.81 [313:313:0922/235531.815488:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.81 [313:313:0922/235531.818897:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.82 [313:313:0922/235531.820945:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.82 [313:313:0922/235531.824103:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.82 [313:313:0922/235531.826550:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.83 [313:313:0922/235531.829438:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.83 [313:313:0922/235531.834471:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.84 [313:313:0922/235531.841186:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.84 [313:313:0922/235531.843539:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.84 [313:313:0922/235531.847413:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.85 [313:313:0922/235531.850004:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.85 [313:313:0922/235531.853608:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.85 [313:313:0922/235531.856066:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.85 [313:313:0922/235531.859415:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:55:31.86 [313:313:0922/235531.862105:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 22, 2019 23:58:07.57 [2326:2326:0922/235807.576607:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 22, 2019 23:58:19.13 [2326:2326:0922/235819.138025:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 22, 2019 23:58:31.85 [2326:2326:0922/235831.857184:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 23, 2019 24:00:36.38 [2326:2326:0923/000036.389039:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 23, 2019 24:00:41.40 [2326:2326:0923/000041.406707:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 512 times!
+set 23, 2019 24:01:19.47 [2326:2326:0923/000119.475131:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 23, 2019 24:02:59.14 [2326:2326:0923/000259.141935:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 23, 2019 24:03:36.57 [2326:2326:0923/000336.574966:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+
+set 23, 2019 22:10:15.17 NEW SESSION
+set 23, 2019 22:10:15.17 Abrindo em uma sessão de navegador existente.
+
+set 24, 2019 20:26:32.50 NEW SESSION
+set 24, 2019 20:26:32.50 Abrindo em uma sessão de navegador existente.
+
+set 25, 2019 17:22:54.33 NEW SESSION
+set 25, 2019 17:22:54.33 [2437:2437:0925/172254.331317:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+set 25, 2019 17:22:55.11 [2437:2437:0925/172255.113706:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 25, 2019 17:22:57.76 [2437:2437:0925/172257.765505:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 1 times!
+set 25, 2019 17:22:57.77 [2437:2437:0925/172257.772990:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 2 times!
+set 25, 2019 17:23:02.55 [2437:2437:0925/172302.556481:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 3 times!
+set 25, 2019 17:23:11.99 [2437:2437:0925/172311.991791:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 25, 2019 17:23:13.03 [2437:2437:0925/172313.036533:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 4 times!
+set 25, 2019 17:23:13.70 [2437:2437:0925/172313.709064:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 25, 2019 17:23:14.99 [2437:2437:0925/172314.998029:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 5 times!
+set 25, 2019 17:23:28.58 [2437:2437:0925/172328.583924:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 6 times!
+set 25, 2019 17:23:28.85 [2437:2437:0925/172328.850690:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 25, 2019 17:23:32.59 [2437:2437:0925/172332.599080:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 7 times!
+set 25, 2019 17:23:32.60 [2437:2437:0925/172332.604838:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 8 times!
+set 25, 2019 17:23:33.20 [2437:2437:0925/172333.200942:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 9 times!
+set 25, 2019 17:23:39.04 [2437:2437:0925/172339.048133:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 10 times!
+set 25, 2019 17:23:39.05 [2437:2437:0925/172339.054812:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 11 times!
+set 25, 2019 17:23:39.07 [2437:2437:0925/172339.076522:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 12 times!
+set 25, 2019 17:23:39.08 [2437:2437:0925/172339.088096:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 13 times!
+set 25, 2019 17:23:39.10 [2437:2437:0925/172339.104245:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 14 times!
+set 25, 2019 17:23:39.11 [2437:2437:0925/172339.113591:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 15 times!
+set 25, 2019 17:23:39.12 [2437:2437:0925/172339.129489:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 16 times!
+set 25, 2019 17:23:39.14 [2437:2437:0925/172339.146415:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 17 times!
+set 25, 2019 17:23:39.16 [2437:2437:0925/172339.163366:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 18 times!
+set 25, 2019 17:23:39.18 [2437:2437:0925/172339.179778:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 19 times!
+set 25, 2019 17:40:24.56 [2437:2437:0925/174024.564531:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 256 times!
+set 25, 2019 17:43:54.22 [2437:2437:0925/174354.224937:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 512 times!
+set 25, 2019 17:44:03.68 [2437:2437:0925/174403.687310:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 768 times!
+set 25, 2019 17:44:08.77 [2437:2437:0925/174408.776651:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 25, 2019 17:44:09.81 [2437:2437:0925/174409.819086:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 25, 2019 17:44:15.09 [2437:2437:0925/174415.098867:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 25, 2019 17:44:29.77 [2437:2437:0925/174429.776485:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 1024 times!
+set 25, 2019 17:47:12.30 [2437:2437:0925/174712.301580:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 1280 times!
+set 25, 2019 17:47:18.07 [2437:2437:0925/174718.079280:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 25, 2019 17:47:19.77 [2437:2437:0925/174719.774496:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 25, 2019 17:47:21.24 [2437:2437:0925/174721.246819:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 1536 times!
+set 25, 2019 17:48:55.45 [2437:2437:0925/174855.458906:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 25, 2019 17:48:57.05 [2437:2437:0925/174857.053765:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 25, 2019 17:49:08.47 [2437:2437:0925/174908.476004:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 1792 times!
+set 25, 2019 17:49:58.51 [2437:2437:0925/174958.510424:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 25, 2019 17:50:03.28 [2437:2437:0925/175003.289265:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 2048 times!
+set 25, 2019 17:50:16.34 [2437:2437:0925/175016.348457:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 25, 2019 17:50:18.45 [2437:2437:0925/175018.450770:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 25, 2019 17:50:20.45 [2437:2437:0925/175020.451859:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 25, 2019 17:52:59.57 [2437:2437:0925/175259.572248:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 25, 2019 18:59:55.24 [2437:2437:0925/185955.240652:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 2304 times!
+set 25, 2019 19:03:29.93 Fontconfig error: Cannot load default config file
+set 25, 2019 19:03:30.25 Fontconfig error: Cannot load default config file
+set 25, 2019 19:05:39.16 [266:266:0925/190539.159676:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:05:39.16 [266:266:0925/190539.161948:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:05:40.46 [266:266:0925/190540.467178:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:05:40.46 [266:266:0925/190540.469551:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:06:55.65 [2437:2437:0925/190655.650534:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 2560 times!
+set 25, 2019 19:07:04.06 [2437:2437:0925/190704.066575:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 25, 2019 19:07:21.90 [2437:2437:0925/190721.908010:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 2816 times!
+set 25, 2019 19:07:39.08 [2437:2437:0925/190739.080917:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 25, 2019 19:07:40.00 [2437:2437:0925/190740.001629:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 25, 2019 19:08:18.92 [266:266:0925/190818.925555:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:18.92 [266:266:0925/190818.928088:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:19.16 [2437:2437:0925/190819.169648:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 3072 times!
+set 25, 2019 19:08:20.93 [266:266:0925/190820.933315:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:20.93 [266:266:0925/190820.934825:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:20.96 [266:266:0925/190820.969585:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:20.97 [266:266:0925/190820.971010:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:32.44 [337:337:0925/190832.446296:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:32.44 [337:337:0925/190832.449106:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:32.45 [337:337:0925/190832.450823:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:32.45 [337:337:0925/190832.455503:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:32.45 [337:337:0925/190832.457832:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:32.46 [337:337:0925/190832.460541:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:32.46 [337:337:0925/190832.462340:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:32.46 [337:337:0925/190832.465197:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:32.46 [337:337:0925/190832.467016:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:32.47 [337:337:0925/190832.469975:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:32.47 [337:337:0925/190832.471850:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:32.47 [337:337:0925/190832.475496:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:32.47 [337:337:0925/190832.477700:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:32.48 [337:337:0925/190832.482861:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:32.48 [337:337:0925/190832.484815:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:32.66 [337:337:0925/190832.665849:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:32.68 [337:337:0925/190832.678154:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:32.68 [337:337:0925/190832.685674:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:32.68 [337:337:0925/190832.689050:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:32.69 [337:337:0925/190832.693194:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:32.69 [337:337:0925/190832.697982:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:32.70 [337:337:0925/190832.701209:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:32.70 [337:337:0925/190832.703636:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.67 [337:337:0925/190847.674205:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.67 [337:337:0925/190847.675593:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.67 [337:337:0925/190847.678758:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.68 [337:337:0925/190847.683075:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.68 [337:337:0925/190847.688682:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.69 [337:337:0925/190847.690836:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.69 [337:337:0925/190847.693960:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.69 [337:337:0925/190847.695952:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.70 [337:337:0925/190847.702273:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.70 [337:337:0925/190847.704147:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.70 [337:337:0925/190847.708059:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.71 [337:337:0925/190847.709808:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.71 [337:337:0925/190847.712590:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.71 [337:337:0925/190847.714746:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.72 [337:337:0925/190847.728520:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.73 [337:337:0925/190847.730398:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.73 [337:337:0925/190847.733574:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.73 [337:337:0925/190847.737765:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.74 [337:337:0925/190847.740442:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.74 [337:337:0925/190847.743311:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.74 [337:337:0925/190847.746656:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.74 [337:337:0925/190847.748902:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.75 [337:337:0925/190847.753953:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.75 [337:337:0925/190847.755744:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.75 [337:337:0925/190847.758703:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.76 [337:337:0925/190847.761008:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.76 [337:337:0925/190847.765190:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.77 [337:337:0925/190847.768154:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.77 [337:337:0925/190847.771738:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.77 [337:337:0925/190847.776477:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.78 [337:337:0925/190847.780072:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.78 [337:337:0925/190847.782384:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.79 [337:337:0925/190847.793115:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.79 [337:337:0925/190847.794982:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.79 [337:337:0925/190847.797619:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.80 [337:337:0925/190847.801210:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.80 [337:337:0925/190847.805146:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.80 [337:337:0925/190847.807263:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.81 [337:337:0925/190847.811222:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.81 [337:337:0925/190847.813444:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.81 [337:337:0925/190847.818771:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.82 [337:337:0925/190847.821812:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.82 [337:337:0925/190847.825109:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.82 [337:337:0925/190847.827648:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.83 [337:337:0925/190847.835125:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.83 [337:337:0925/190847.837224:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.84 [337:337:0925/190847.841624:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.84 [337:337:0925/190847.844503:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.84 [337:337:0925/190847.848120:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.85 [337:337:0925/190847.849975:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.85 [337:337:0925/190847.854632:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.85 [337:337:0925/190847.856291:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.85 [337:337:0925/190847.859118:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.86 [337:337:0925/190847.861076:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.86 [337:337:0925/190847.865074:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.86 [337:337:0925/190847.868381:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.87 [337:337:0925/190847.873326:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.87 [337:337:0925/190847.877650:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.88 [337:337:0925/190847.879990:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.88 [337:337:0925/190847.883821:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.88 [337:337:0925/190847.885965:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.88 [337:337:0925/190847.889184:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.89 [337:337:0925/190847.892507:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.89 [337:337:0925/190847.895664:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.89 [337:337:0925/190847.897817:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.90 [337:337:0925/190847.900893:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.90 [337:337:0925/190847.903979:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.90 [337:337:0925/190847.908021:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.91 [337:337:0925/190847.909916:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.91 [337:337:0925/190847.912580:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.91 [337:337:0925/190847.915173:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.92 [337:337:0925/190847.920746:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.92 [337:337:0925/190847.923579:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.92 [337:337:0925/190847.927309:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.92 [337:337:0925/190847.929030:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.93 [337:337:0925/190847.932068:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.93 [337:337:0925/190847.933858:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.93 [337:337:0925/190847.938369:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:08:47.94 [337:337:0925/190847.940373:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:18:06.78 [2437:2437:0925/191806.780072:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 3328 times!
+set 25, 2019 19:18:10.96 [2437:2437:0925/191810.960340:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+set 25, 2019 19:20:54.55 [2437:2437:0925/192054.556674:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 3584 times!
+set 25, 2019 19:22:42.98 [392:392:0925/192242.980164:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 19:22:42.98 [392:392:0925/192242.981873:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+set 25, 2019 21:11:31.23 Abrindo em uma sessão de navegador existente.
+
+out 03, 2019 20:25:18.01 NEW SESSION
+out 03, 2019 20:25:18.01 [3838:3838:1003/202518.009743:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+out 03, 2019 20:25:19.27 [3838:3838:1003/202519.278890:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+out 03, 2019 20:25:23.60 [3838:3838:1003/202523.602763:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 1 times!
+out 03, 2019 20:25:25.54 [3838:3838:1003/202525.542309:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 2 times!
+out 03, 2019 20:25:27.93 [3838:3838:1003/202527.937519:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 3 times!
+out 03, 2019 20:25:27.94 [3838:3838:1003/202527.947054:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 4 times!
+out 03, 2019 20:25:27.96 [3838:3838:1003/202527.964815:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 5 times!
+out 03, 2019 20:25:29.34 [3838:3838:1003/202529.345815:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 6 times!
+out 03, 2019 20:25:29.36 [3838:3838:1003/202529.364409:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 7 times!
+out 03, 2019 20:25:29.37 [3838:3838:1003/202529.372968:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 8 times!
+out 03, 2019 20:26:18.83 [3838:3838:1003/202618.833247:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 9 times!
+out 03, 2019 20:26:31.94 [3838:3838:1003/202631.944517:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 10 times!
+out 03, 2019 20:26:31.96 [3838:3838:1003/202631.962605:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 11 times!
+out 03, 2019 20:26:31.97 [3838:3838:1003/202631.970894:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 12 times!
+out 03, 2019 20:26:34.23 [3838:3838:1003/202634.235868:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 13 times!
+
+out 07, 2019 22:06:52.78 NEW SESSION
+out 07, 2019 22:06:52.78 Abrindo em uma sessão de navegador existente.
+out 08, 2019 18:54:52.49 Abrindo em uma sessão de navegador existente.
+out 08, 2019 20:26:19.06 Abrindo em uma sessão de navegador existente.
+
+out 17, 2019 21:04:39.47 NEW SESSION
+out 17, 2019 21:04:39.48 [7178:7178:1017/210439.475406:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+out 17, 2019 21:04:39.53 Abrindo em uma sessão de navegador existente.
+out 21, 2019 19:29:08.74 [9094:9094:1021/192908.749019:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+out 21, 2019 19:29:08.82 Abrindo em uma sessão de navegador existente.
+
+nov 04, 2019 20:03:20.74 NEW SESSION
+nov 04, 2019 20:03:20.74 Abrindo em uma sessão de navegador existente.

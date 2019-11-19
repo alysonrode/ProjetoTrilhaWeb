@@ -1,0 +1,9 @@
+import javax.swing.JOptionPane;
+public class Graphics {
+// 	Onde mostra todos os dados pro usuário.
+	public static void mostraAnguloHoraAtual(int anguloEntrePonteiros, int hora, int minuto) {
+		JOptionPane.showMessageDialog(null, "A hora atual é: " + hora + ":" + minuto );
+		JOptionPane.showMessageDialog(null, "O ângulo entre os ponteiros da hora atual é de: " +anguloEntrePonteiros);
+	}
+	
+}
