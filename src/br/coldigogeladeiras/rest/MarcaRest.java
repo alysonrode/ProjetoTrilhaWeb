@@ -60,11 +60,17 @@ public class MarcaRest extends UtilRest {
 		Conexao conec = new Conexao();
 		Connection conexao = conec.abrirConexao();
 		JDBCMarcaDAO jdbcMarca = new JDBCMarcaDAO(conexao);
-		boolean retorno = jdbcMarca.inserir(marca);
-		if (retorno) {
-			return this.buildResponse("Marca cadastrada com sucesso");
+
+		boolean igualdade = jdbcMarca.validaIguais(marca);
+		if (igualdade) {
+			boolean retorno = jdbcMarca.inserir(marca);
+			if (retorno) {
+				return this.buildResponse("Marca cadastrada com sucesso");
+			} else {
+				return this.buildErrorResponse("Erro ao cadastrar marca!");
+			}
 		} else {
-			return this.buildErrorResponse("Erro ao cadastrar marca!");
+			return this.buildErrorResponse("Marca já existente");
 		}
 	}
 
@@ -99,27 +105,27 @@ public class MarcaRest extends UtilRest {
 	public Response deletar(@PathParam("id") int id) {
 		try {
 			Conexao conec = new Conexao();
-			Connection conexao = conec.abrirConexao();			
+			Connection conexao = conec.abrirConexao();
 
-				JDBCMarcaDAO jdbcMarca = new JDBCMarcaDAO(conexao);
-				boolean integridade = jdbcMarca.verificaIntegridadeMarca(conexao, id);
-				if(integridade == false) {
-					boolean resposta = jdbcMarca.excluir(id);
-				
-					conec.fecharConexao();
-				
-					if 	(resposta) {
-						return this.buildResponse("Marca excluída com sucesso!");
-					} else {
-						return this.buildErrorResponse("Falha ao excluir marca!");
-					}
-					}else {
-						return this.buildErrorResponse("Há um produto registrado com essa marca.");
-					}
-			} catch (Exception e) {
-				e.printStackTrace();
-				return this.buildErrorResponse(e.getMessage());
+			JDBCMarcaDAO jdbcMarca = new JDBCMarcaDAO(conexao);
+			boolean integridade = jdbcMarca.verificaIntegridadeMarca(id);
+			if (integridade == false) {
+				boolean resposta = jdbcMarca.excluir(id);
+
+				conec.fecharConexao();
+
+				if (resposta) {
+					return this.buildResponse("Marca excluída com sucesso!");
+				} else {
+					return this.buildErrorResponse("Falha ao excluir marca!");
+				}
+			} else {
+				return this.buildErrorResponse("Há um produto registrado com essa marca.");
 			}
+		} catch (Exception e) {
+			e.printStackTrace();
+			return this.buildErrorResponse(e.getMessage());
+		}
 
 	}
 
@@ -167,27 +173,46 @@ public class MarcaRest extends UtilRest {
 			return this.buildErrorResponse(e.getMessage());
 		}
 	}
+
 	@PUT
-	@Path("/onoff/{id}")
+	@Path("/onoff")
 	@Consumes("application/*")
-	public Response onoff(@PathParam("id") int id, @QueryParam("status") int status) {
-		
+	public Response onoff(String marcaStatus) {
+
+		Marca marca = new Gson().fromJson(marcaStatus, Marca.class);
+
 		Conexao conec = new Conexao();
 		Connection conexao = conec.abrirConexao();
 		JDBCMarcaDAO jdbcMarca = new JDBCMarcaDAO(conexao);
-		
-		String textStatus = "";
-		if(status == 0) {
-			textStatus = "desativada";
-		}else {
-			textStatus = "ativada";
-		}
-		
-		boolean retorno = jdbcMarca.onoff(id, status);
-		
-		
-		if(retorno) {
-			return this.buildResponse("Marca" + textStatus + " com sucesso!");
+
+		try {
+
+			String textStatus = "";
+			if (marca.getStatus() == 0) {
+				textStatus = "desativada";
+			} else {
+				textStatus = "ativada";
+			}
+
+			boolean integridade = jdbcMarca.verificaIntegridadeMarca(marca.getId());
+
+			if (integridade == false) {
+				boolean retorno = jdbcMarca.onoff(marca);
+				if (retorno) {
+					conec.fecharConexao();
+					return this.buildResponse("Marca " + textStatus + " com sucesso!");
+
+				} else {
+					conec.fecharConexao();
+					return this.buildErrorResponse("Não foi possível alterar o status da marca!");
+				}
+			} else {
+				conec.fecharConexao();
+				return this.buildErrorResponse("Há um produto cadastrado com essa marca, impossível inativá-la");
+			}
+		} catch (Exception e) {
+			return this.buildErrorResponse(e.getMessage());
 		}
 	}
+
 }

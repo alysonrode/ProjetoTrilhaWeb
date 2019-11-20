@@ -16,7 +16,7 @@ public class JDBCProdutoDAO implements ProdutoDAO {
 	public JDBCProdutoDAO(Connection conexao) {
 		this.conexao = conexao;
 	}
-
+	
 	public boolean inserir(Produto produto) {
 		
 		//Cria o comando no sql que será enviado pelo p.execute, colocando todos os parâmetros dentro de um objeto de p
@@ -157,5 +157,26 @@ public class JDBCProdutoDAO implements ProdutoDAO {
 			return false;
 		}
 	return true;
+	}
+	public boolean validaIguais(String elemento) {
+
+		String segundoComando = "SELECT count(*) as count_modelo FROM produtos where modelo like '" + elemento + "'";
+
+		PreparedStatement r;
+		int contagem = 0;
+		try {
+			r = this.conexao.prepareStatement(segundoComando);
+			ResultSet rs = r.executeQuery();
+			while (rs.next()) {
+				contagem = rs.getInt("count_modelo");
+			}
+			if (contagem == 0) {
+				return true;
+			}
+			return false;
+		} catch (Exception e) {
+			e.printStackTrace();
+			return false;
+		}
 	}
 }

@@ -28,7 +28,7 @@ public class JDBCMarcaDAO implements MarcaDAO {
 	public List<Marca> buscar() {
 
 		// Criação da instrução SQL para busca de todas as marcas
-		String comando = "SELECT * FROM marcas";
+		String comando = "SELECT * FROM marcas where status = 1";
 
 		// Criação de uma lista para armazenar os dados que foram buscados do banco
 		List<Marca> listMarcas = new ArrayList<Marca>();
@@ -59,12 +59,13 @@ public class JDBCMarcaDAO implements MarcaDAO {
 
 				int id = rs.getInt("id");
 				String nome = rs.getString("nome");
+				int status = rs.getInt("status");
 
 //			Setando no objeto marca os valores desejados
 
 				marca.setId(id);
 				marca.setNome(nome);
-
+				marca.setStatus(status);
 //			Adição da instância contida no objeto Marca na lista de Marcas
 
 				listMarcas.add(marca);
@@ -78,14 +79,14 @@ public class JDBCMarcaDAO implements MarcaDAO {
 	}
 
 	public boolean inserir(String marca) {
-		String comando = "INSERT INTO marcas VALUES (null, ?)";
+
+		String comando = "INSERT INTO marcas VALUES (null, ?, 1)";
 
 		PreparedStatement p;
 		try {
 			p = this.conexao.prepareStatement(comando);
 			p.setString(1, marca);
 			p.execute();
-
 		} catch (Exception e) {
 			e.printStackTrace();
 			return false;
@@ -111,6 +112,7 @@ public class JDBCMarcaDAO implements MarcaDAO {
 				marca = new Marca();
 				marca.setId(rs.getInt("id"));
 				marca.setNome(rs.getString("nome"));
+				marca.setStatus(rs.getInt("status"));
 
 				listaMarcas.add(marca);
 			}
@@ -173,58 +175,100 @@ public class JDBCMarcaDAO implements MarcaDAO {
 		return true;
 	}
 
-	public boolean verificaIntegridadeMarca(Connection conexao, int id) {
-		
+	public boolean verificaIntegridadeMarca(int id) {
+
 		String comando = "SELECT COUNT(*) as count_produtos FROM produtos WHERE marcas_id = ?";
 		PreparedStatement r;
 		int contagem = 0;
 		try {
 			r = conexao.prepareStatement(comando);
 			r.setInt(1, id);
-		
+
 			ResultSet rs = r.executeQuery();
-			
-			while(rs.next()){
+
+			while (rs.next()) {
 				contagem = rs.getInt("count_produtos");
-				
-				if(contagem > 0) {
-					
+
+				if (contagem > 0) {
+
 					return true;
-				
+
 				}
 			}
 			return false;
-		}
-		catch(Exception e){
+		} catch (Exception e) {
 			e.printStackTrace();
 			return false;
 		}
 	}
-	public boolean verificaIntegridadeProduto(Connection conexao, int id) {
-		
+
+	public boolean verificaIntegridadeProduto(int id) {
+
 		String comando = "SELECT COUNT(*) as count_produtos FROM marcas WHERE id = ?";
 		PreparedStatement p;
-		
+
 		int contagem = 0;
-		
+
 		try {
-		
+
 			p = this.conexao.prepareStatement(comando);
 			p.setInt(1, id);
-			
+
 			ResultSet rs = p.executeQuery();
-			 
-			while(rs.next()) {	
+
+			while (rs.next()) {
 				contagem = rs.getInt("count_produtos");
-				System.out.println(contagem);
-			}	
-				if(contagem > 0) {
-					return true;	
-				}else {
-					return false;
-				}
-			
-		}catch(Exception e) {
+			}
+			if (contagem > 0) {
+				return true;
+			} else {
+				return false;
+			}
+
+		} catch (Exception e) {
+			e.printStackTrace();
+			return false;
+		}
+	}
+
+	public boolean onoff(Marca marca) {
+
+		String comando = "UPDATE marcas set status = ? WHERE id = ? ";
+		PreparedStatement p;
+
+		try {
+
+			p = this.conexao.prepareStatement(comando);
+			p.setInt(1, marca.getStatus());
+			p.setInt(2, marca.getId());
+
+			p.execute();
+
+		} catch (Exception e) {
+			e.printStackTrace();
+			return false;
+		}
+
+		return true;
+	}
+
+	public boolean validaIguais(String elemento) {
+
+		String segundoComando = "SELECT count(*) as count_marcas FROM marcas where nome like '" + elemento +"'";
+
+		PreparedStatement r;
+		int contagem = 0;
+		try {
+			r = this.conexao.prepareStatement(segundoComando);
+			ResultSet rs = r.executeQuery();
+			while (rs.next()) {
+				contagem = rs.getInt("count_marcas");
+			}
+			if (contagem == 0) {
+				return true;
+			}
+			return false;
+		} catch (Exception e) {
 			e.printStackTrace();
 			return false;
 		}
